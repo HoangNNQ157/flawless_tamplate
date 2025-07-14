@@ -142,11 +142,10 @@ const TwoFactorPage: React.FC = () => {
 
         {/* Right */}
         <div className="md:w-1/2 w-full p-14 flex flex-col justify-center">
-          <h2 className="text-4xl font-bold text-gray-800 mb-2">
-            Xác minh 2 bước
-          </h2>
-          <p className="text-lg text-gray-500 mb-8">
-            Vui lòng nhập mã xác thực được gửi đến email
+          <h2 className="text-4xl font-bold text-gray-800 mb-2">Xác minh 2 bước</h2>
+          <p className="text-lg text-gray-500 mb-4">
+            Vui lòng nhập mã xác thực được gửi đến email:{" "}
+            <span className="font-semibold text-[#A67396]">{email}</span>
           </p>
 
           {error && (
@@ -156,15 +155,6 @@ const TwoFactorPage: React.FC = () => {
           )}
 
           <form className="space-y-6" onSubmit={handleSubmit}>
-            <div>
-              <label className="text-base font-medium text-gray-700">Email</label>
-              <input
-                type="email"
-                value={email || ""}
-                disabled
-                className="w-full mt-2 px-5 py-3 border border-gray-300 rounded-lg text-lg bg-gray-50"
-              />
-            </div>
             <div>
               <label className="text-base font-medium text-gray-700">
                 Mã xác minh
