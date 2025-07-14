@@ -2,7 +2,7 @@ import type { Appointment } from "@/redux/slices/appointmentSlice";
 
 export default function CustomerTableRow(props: Appointment) {
   const {
-    customerId,
+    
     customerName,
     imageUrlCustomer,
     appointmentDate,
@@ -15,7 +15,7 @@ export default function CustomerTableRow(props: Appointment) {
     depositForApp,
     amountToPayForArtist,
     status,
-    note
+    
   } = props;
 
   // Format currency
@@ -53,7 +53,6 @@ export default function CustomerTableRow(props: Appointment) {
 
   return (
     <tr className="border-b border-gray-100 hover:bg-gray-50">
-      <td className="py-3 px-4">{customerId}</td>
       <td className="py-3 px-4">{customerName}</td>
       <td className="py-3 px-4">
         {imageUrlCustomer && (
@@ -90,9 +89,7 @@ export default function CustomerTableRow(props: Appointment) {
           {status}
         </span>
       </td>
-      <td className="py-3 px-4">
-        <span className="text-gray-500 text-xs">{note}</span>
-      </td>
+      
     </tr>
   );
 } 

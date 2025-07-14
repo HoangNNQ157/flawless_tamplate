@@ -11,7 +11,6 @@ const TwoFactorPage = () => {
   const [error, setError] = useState<string | null>(null);
   const navigate = useNavigate();
   const dispatch = useDispatch();
-
   const { email } = useSelector((state: RootState) => state.auth);
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -24,7 +23,7 @@ const TwoFactorPage = () => {
         'https://flawless-a2exc2hwcge8bbfz.canadacentral-01.azurewebsites.net/api/user-account/verify-twofactor-code',
         {
           email,
-          twoFactorCode: otp
+          twoFactorCode: otp,
         },
         {
           headers: {
@@ -34,25 +33,34 @@ const TwoFactorPage = () => {
         }
       );
 
-      if (response.data.isSuccess) {
-        dispatch(setCredentials({
-          token: response.data.token,
-          refreshToken: response.data.refreshToken,
-          isSuccess: response.data.isSuccess,
-          errorMessage: response.data.errorMessage,
-          email
-        }));
-        navigate('/dashboard-admin');
+      const data = response.data;
+      if (data.isSuccess) {
+        const userRole = data.role;
+
+        if (userRole === 'Admin') {
+          dispatch(setCredentials({
+            token: data.token,
+            refreshToken: data.refreshToken,
+            isSuccess: data.isSuccess,
+            errorMessage: data.errorMessage,
+            email,
+            role: userRole,
+          }));
+
+          navigate('/dashboard-admin');
+        } else {
+          setError('Chỉ tài khoản Admin mới được phép đăng nhập.');
+        }
       } else {
-        setError(response.data.errorMessage || 'Verification failed');
+        setError(data.errorMessage || 'Xác minh thất bại.');
       }
     } catch (err: unknown) {
       if (axios.isAxiosError(err)) {
         console.error('Axios error:', err.response?.data);
-        setError(err.response?.data?.errorMessage || 'Failed to verify code');
+        setError(err.response?.data?.errorMessage || 'Xác minh thất bại.');
       } else {
         console.error('Unknown error:', err);
-        setError('Failed to verify code');
+        setError('Xác minh thất bại.');
       }
     } finally {
       setIsLoading(false);
@@ -77,11 +85,9 @@ const TwoFactorPage = () => {
       );
     } catch (err: unknown) {
       if (axios.isAxiosError(err)) {
-        console.error('Resend code error:', err.response?.data);
-        setError(err.response?.data?.errorMessage || 'Failed to resend code');
+        setError(err.response?.data?.errorMessage || 'Gửi lại mã thất bại');
       } else {
-        console.error('Unknown error (resend):', err);
-        setError('Failed to resend code');
+        setError('Gửi lại mã thất bại');
       }
     }
   };
@@ -112,7 +118,9 @@ const TwoFactorPage = () => {
         {/* Right Side */}
         <div className="md:w-1/2 w-full p-14 flex flex-col justify-center">
           <h2 className="text-4xl font-bold text-gray-800 mb-2">Xác minh 2 bước</h2>
-          <p className="text-lg text-gray-500 mb-8">Vui lòng nhập mã xác thực được gửi đến email</p>
+          <p className="text-lg text-gray-500 mb-8">
+            Vui lòng nhập mã xác thực được gửi đến email
+          </p>
 
           {error && (
             <div className="mb-4 p-3 bg-red-100 text-red-700 rounded-lg">

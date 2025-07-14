@@ -114,7 +114,7 @@ export default function CustomerTable() {
 				<table className="w-full text-sm text-black">
 					<thead>
 						<tr className="text-gray-400 text-left border-b">
-							<th className="py-3 px-4 font-normal">Customer ID</th>
+							
 							<th className="py-3 px-4 font-normal">Name</th>
 							<th className="py-3 px-4 font-normal">Image</th>
 							<th className="py-3 px-4 font-normal">Date & Time</th>
@@ -127,7 +127,7 @@ export default function CustomerTable() {
 							<th className="py-3 px-4 font-normal">Deposit</th>
 							<th className="py-3 px-4 font-normal">Artist Payment</th>
 							<th className="py-3 px-4 font-normal">Status</th>
-							<th className="py-3 px-4 font-normal">Note</th>
+							
 						</tr>
 					</thead>
 					<tbody>
