@@ -1,0 +1,205 @@
+{
+  "totalArtist": {
+    "totalArtistAllYear": 597,
+    "perYear": [
+      {
+        "year": 2023,
+        "totalArtistPerYear": 189,
+        "months": {
+          "jan": {
+            "totalArtist": 11,
+            "newArtist": 2,
+            "banArtist": 0
+          },
+          "feb": {
+            "totalArtist": 16,
+            "newArtist": 2,
+            "banArtist": 0
+          },
+          "mar": {
+            "totalArtist": 18,
+            "newArtist": 4,
+            "banArtist": 2
+          },
+          "apr": {
+            "totalArtist": 12,
+            "newArtist": 4,
+            "banArtist": 2
+          },
+          "may": {
+            "totalArtist": 14,
+            "newArtist": 2,
+            "banArtist": 1
+          },
+          "jun": {
+            "totalArtist": 18,
+            "newArtist": 8,
+            "banArtist": 0
+          },
+          "jul": {
+            "totalArtist": 18,
+            "newArtist": 9,
+            "banArtist": 3
+          },
+          "aug": {
+            "totalArtist": 18,
+            "newArtist": 5,
+            "banArtist": 3
+          },
+          "sep": {
+            "totalArtist": 17,
+            "newArtist": 5,
+            "banArtist": 2
+          },
+          "oct": {
+            "totalArtist": 22,
+            "newArtist": 9,
+            "banArtist": 2
+          },
+          "nov": {
+            "totalArtist": 14,
+            "newArtist": 2,
+            "banArtist": 1
+          },
+          "dec": {
+            "totalArtist": 11,
+            "newArtist": 3,
+            "banArtist": 1
+          }
+        }
+      },
+      {
+        "year": 2024,
+        "totalArtistPerYear": 207,
+        "months": {
+          "jan": {
+            "totalArtist": 25,
+            "newArtist": 10,
+            "banArtist": 3
+          },
+          "feb": {
+            "totalArtist": 21,
+            "newArtist": 6,
+            "banArtist": 1
+          },
+          "mar": {
+            "totalArtist": 11,
+            "newArtist": 2,
+            "banArtist": 2
+          },
+          "apr": {
+            "totalArtist": 13,
+            "newArtist": 4,
+            "banArtist": 0
+          },
+          "may": {
+            "totalArtist": 19,
+            "newArtist": 6,
+            "banArtist": 3
+          },
+          "jun": {
+            "totalArtist": 15,
+            "newArtist": 10,
+            "banArtist": 0
+          },
+          "jul": {
+            "totalArtist": 18,
+            "newArtist": 4,
+            "banArtist": 0
+          },
+          "aug": {
+            "totalArtist": 20,
+            "newArtist": 8,
+            "banArtist": 1
+          },
+          "sep": {
+            "totalArtist": 14,
+            "newArtist": 2,
+            "banArtist": 3
+          },
+          "oct": {
+            "totalArtist": 23,
+            "newArtist": 8,
+            "banArtist": 1
+          },
+          "nov": {
+            "totalArtist": 13,
+            "newArtist": 2,
+            "banArtist": 0
+          },
+          "dec": {
+            "totalArtist": 15,
+            "newArtist": 5,
+            "banArtist": 2
+          }
+        }
+      },
+      {
+        "year": 2025,
+        "totalArtistPerYear": 201,
+        "months": {
+          "jan": {
+            "totalArtist": 17,
+            "newArtist": 5,
+            "banArtist": 0
+          },
+          "feb": {
+            "totalArtist": 21,
+            "newArtist": 6,
+            "banArtist": 3
+          },
+          "mar": {
+            "totalArtist": 16,
+            "newArtist": 2,
+            "banArtist": 0
+          },
+          "apr": {
+            "totalArtist": 10,
+            "newArtist": 2,
+            "banArtist": 1
+          },
+          "may": {
+            "totalArtist": 20,
+            "newArtist": 10,
+            "banArtist": 2
+          },
+          "jun": {
+            "totalArtist": 13,
+            "newArtist": 6,
+            "banArtist": 3
+          },
+          "jul": {
+            "totalArtist": 13,
+            "newArtist": 5,
+            "banArtist": 1
+          },
+          "aug": {
+            "totalArtist": 19,
+            "newArtist": 5,
+            "banArtist": 3
+          },
+          "sep": {
+            "totalArtist": 20,
+            "newArtist": 9,
+            "banArtist": 0
+          },
+          "oct": {
+            "totalArtist": 14,
+            "newArtist": 4,
+            "banArtist": 0
+          },
+          "nov": {
+            "totalArtist": 22,
+            "newArtist": 8,
+            "banArtist": 0
+          },
+          "dec": {
+            "totalArtist": 16,
+            "newArtist": 10,
+            "banArtist": 3
+          }
+        }
+      }
+    ]
+  }
+}

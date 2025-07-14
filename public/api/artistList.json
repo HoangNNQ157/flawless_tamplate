@@ -1,0 +1,2842 @@
+{
+  "artistList": [
+    {
+      "idArtist": "ART-001",
+      "nameArtist": "Amelia Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Bridal Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0976224720",
+      "email": "amelia.wilson@beautypro.com",
+      "dob": "1992-04-20",
+      "bankAccount": {
+        "bank": "Vietcombank",
+        "stk": "6154335205",
+        "name": "Amelia Wilson"
+      },
+      "address": "Hanoi",
+      "areaBook": "Hanoi",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-21",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 35,
+      "rating": 4.33,
+      "experience": "2 years",
+      "schedule": [
+        {
+          "id": "SCH-001-1",
+          "customer": {
+            "id": "CUS-001-1",
+            "name": "Olivia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/78.jpg",
+            "phone": "0955247080",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-05-26",
+          "time": "05:30 PM",
+          "duration": "133 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-001-2",
+          "customer": {
+            "id": "CUS-001-2",
+            "name": "Evelyn Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+            "phone": "0990735722",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-27",
+          "time": "11:45 AM",
+          "duration": "134 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-001-3",
+          "customer": {
+            "id": "CUS-001-3",
+            "name": "Isabella Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+            "phone": "0927404477",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-10",
+          "time": "09:15 PM",
+          "duration": "126 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-001-4",
+          "customer": {
+            "id": "CUS-001-4",
+            "name": "Amelia Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/69.jpg",
+            "phone": "0942058400",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-12",
+          "time": "08:00 AM",
+          "duration": "109 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-001-5",
+          "customer": {
+            "id": "CUS-001-5",
+            "name": "Harper Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/89.jpg",
+            "phone": "0999581331",
+            "note": "Returning client",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-14",
+          "time": "02:00 PM",
+          "duration": "129 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-001-6",
+          "customer": {
+            "id": "CUS-001-1",
+            "name": "Olivia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/78.jpg",
+            "phone": "0955247080",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-02",
+          "time": "08:30 AM",
+          "duration": "45 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-001-7",
+          "customer": {
+            "id": "CUS-001-1",
+            "name": "Olivia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/78.jpg",
+            "phone": "0955247080",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-03",
+          "time": "05:30 PM",
+          "duration": "30 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-001-8",
+          "customer": {
+            "id": "CUS-001-1",
+            "name": "Olivia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/78.jpg",
+            "phone": "0955247080",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-04",
+          "time": "10:0 AM",
+          "duration": "60 minutes",
+          "status": 1
+        }
+      ],
+      "totalIncome": 9819,
+      "totalBooked": 137,
+      "totalCancel": 0,
+      "totalCustomer": 46,
+      "productUsed": [
+        "Maybelline Mascara",
+        "Urban Decay Eyeshadow",
+        "NARS Concealer"
+      ]
+    },
+    {
+      "idArtist": "ART-002",
+      "nameArtist": "Emma Lopez",
+      "avatar": "https://randomuser.me/api/portraits/women/13.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Bridal Makeup",
+      "status": 0,
+      "gender": 0,
+      "phone": "0920216118",
+      "email": "emma.lopez@beautypro.com",
+      "dob": "1998-06-22",
+      "bankAccount": {
+        "bank": "Vietcombank",
+        "stk": "2062860544",
+        "name": "Emma Lopez"
+      },
+      "address": "Can Tho",
+      "areaBook": "Hanoi",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-25",
+      "services": [
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 0
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 12,
+      "rating": 4.37,
+      "experience": "13 years",
+      "schedule": [
+        {
+          "id": "SCH-002-1",
+          "customer": {
+            "id": "CUS-002-1",
+            "name": "Emma Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/30.jpg",
+            "phone": "0974657602",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-31",
+          "time": "09:30 AM",
+          "duration": "108 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-002-2",
+          "customer": {
+            "id": "CUS-002-2",
+            "name": "Evelyn Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+            "phone": "0971131382",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-15",
+          "time": "10:00 AM",
+          "duration": "179 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-002-3",
+          "customer": {
+            "id": "CUS-002-3",
+            "name": "Isabella Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/87.jpg",
+            "phone": "0993958686",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-28",
+          "time": "11:45 AM",
+          "duration": "102 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-002-4",
+          "customer": {
+            "id": "CUS-002-4",
+            "name": "Evelyn Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/86.jpg",
+            "phone": "0932636365",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-10",
+          "time": "04:00 PM",
+          "duration": "102 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-002-5",
+          "customer": {
+            "id": "CUS-002-5",
+            "name": "Evelyn Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/30.jpg",
+            "phone": "0972473069",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-10",
+          "time": "04:30 PM",
+          "duration": "120 minutes",
+          "status": 1
+        }
+      ],
+      "totalIncome": 2385,
+      "totalBooked": 131,
+      "totalCancel": 9,
+      "totalCustomer": 72,
+      "productUsed": [
+        "Maybelline Mascara",
+        "NARS Concealer",
+        "MAC Foundation",
+        "Urban Decay Eyeshadow"
+      ]
+    },
+    {
+      "idArtist": "ART-003",
+      "nameArtist": "Amelia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/78.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "SFX Makeup",
+      "status": 0,
+      "gender": 1,
+      "phone": "0958847432",
+      "email": "amelia.davis@beautypro.com",
+      "dob": "1988-02-13",
+      "bankAccount": {
+        "bank": "VPBank",
+        "stk": "4627374138",
+        "name": "Amelia Davis"
+      },
+      "address": "Can Tho",
+      "areaBook": "Hanoi",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-17",
+      "services": [
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 0
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 103,
+      "rating": 4.33,
+      "experience": "10 years",
+      "schedule": [
+        {
+          "id": "SCH-003-1",
+          "customer": {
+            "id": "CUS-003-1",
+            "name": "Mia Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+            "phone": "0975187602",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-06",
+          "time": "01:00 PM",
+          "duration": "133 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-003-2",
+          "customer": {
+            "id": "CUS-003-2",
+            "name": "Evelyn Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+            "phone": "0943654237",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-05-27",
+          "time": "09:30 PM",
+          "duration": "116 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-003-3",
+          "customer": {
+            "id": "CUS-003-3",
+            "name": "Ava Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/23.jpg",
+            "phone": "0973895623",
+            "note": "Returning client",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-03",
+          "time": "11:30 AM",
+          "duration": "126 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-003-4",
+          "customer": {
+            "id": "CUS-003-4",
+            "name": "Olivia Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/24.jpg",
+            "phone": "0999828654",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-03",
+          "time": "05:15 PM",
+          "duration": "96 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-003-5",
+          "customer": {
+            "id": "CUS-003-5",
+            "name": "Abigail Garcia",
+            "avatar": "https://randomuser.me/api/portraits/women/30.jpg",
+            "phone": "0986148689",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-07",
+          "time": "10:00 AM",
+          "duration": "127 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 12002,
+      "totalBooked": 167,
+      "totalCancel": 5,
+      "totalCustomer": 74,
+      "productUsed": [
+        "Fenty Highlighter",
+        "NARS Concealer",
+        "Urban Decay Eyeshadow"
+      ]
+    },
+    {
+      "idArtist": "ART-004",
+      "nameArtist": "Harper Jones",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Everyday Glam",
+      "status": 1,
+      "gender": 0,
+      "phone": "0952571441",
+      "email": "harper.jones@beautypro.com",
+      "dob": "1991-11-14",
+      "bankAccount": {
+        "bank": "ACB",
+        "stk": "3881744412",
+        "name": "Harper Jones"
+      },
+      "address": "Can Tho",
+      "areaBook": "Can Tho",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-08",
+      "services": [
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 0
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 50,
+      "rating": 4.48,
+      "experience": "13 years",
+      "schedule": [
+        {
+          "id": "SCH-004-1",
+          "customer": {
+            "id": "CUS-004-1",
+            "name": "Abigail Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+            "phone": "0976933068",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-13",
+          "time": "07:30 PM",
+          "duration": "141 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-004-2",
+          "customer": {
+            "id": "CUS-004-2",
+            "name": "Amelia Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+            "phone": "0986905011",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-15",
+          "time": "05:00 PM",
+          "duration": "159 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-004-3",
+          "customer": {
+            "id": "CUS-004-3",
+            "name": "Mia Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/34.jpg",
+            "phone": "0966401485",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-02",
+          "time": "12:15 PM",
+          "duration": "156 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-004-4",
+          "customer": {
+            "id": "CUS-004-4",
+            "name": "Isabella Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/62.jpg",
+            "phone": "0957722270",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-06",
+          "time": "03:30 PM",
+          "duration": "111 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-004-5",
+          "customer": {
+            "id": "CUS-004-5",
+            "name": "Mia Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/74.jpg",
+            "phone": "0935397758",
+            "note": "Returning client",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-11",
+          "time": "03:00 PM",
+          "duration": "180 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 4295,
+      "totalBooked": 185,
+      "totalCancel": 0,
+      "totalCustomer": 61,
+      "productUsed": [
+        "NARS Concealer",
+        "Fenty Highlighter",
+        "MAC Foundation"
+      ]
+    },
+    {
+      "idArtist": "ART-005",
+      "nameArtist": "Emma Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/37.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Everyday Glam",
+      "status": 0,
+      "gender": 0,
+      "phone": "0969034033",
+      "email": "emma.wilson@beautypro.com",
+      "dob": "1987-04-08",
+      "bankAccount": {
+        "bank": "ACB",
+        "stk": "3191749230",
+        "name": "Emma Wilson"
+      },
+      "address": "Ho Chi Minh City",
+      "areaBook": "Hai Phong",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-02",
+      "services": [
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 178,
+      "rating": 4.42,
+      "experience": "10 years",
+      "schedule": [
+        {
+          "id": "SCH-005-1",
+          "customer": {
+            "id": "CUS-005-1",
+            "name": "Sophia Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/48.jpg",
+            "phone": "0991531035",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-29",
+          "time": "01:45 PM",
+          "duration": "104 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-005-2",
+          "customer": {
+            "id": "CUS-005-2",
+            "name": "Olivia Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/39.jpg",
+            "phone": "0996676866",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-05-26",
+          "time": "08:30 PM",
+          "duration": "114 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-005-3",
+          "customer": {
+            "id": "CUS-005-3",
+            "name": "Emma Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/33.jpg",
+            "phone": "0998907193",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-30",
+          "time": "07:00 PM",
+          "duration": "103 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-005-4",
+          "customer": {
+            "id": "CUS-005-4",
+            "name": "Isabella Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/48.jpg",
+            "phone": "0953344923",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-08",
+          "time": "01:00 PM",
+          "duration": "159 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-005-5",
+          "customer": {
+            "id": "CUS-005-5",
+            "name": "Sophia Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/42.jpg",
+            "phone": "0985256067",
+            "note": "Returning client",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-03",
+          "time": "06:45 PM",
+          "duration": "166 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 11439,
+      "totalBooked": 121,
+      "totalCancel": 3,
+      "totalCustomer": 86,
+      "productUsed": [
+        "Urban Decay Eyeshadow",
+        "Fenty Highlighter",
+        "MAC Foundation",
+        "Chanel Lipstick"
+      ]
+    },
+    {
+      "idArtist": "ART-006",
+      "nameArtist": "Isabella Williams",
+      "avatar": "https://randomuser.me/api/portraits/women/66.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Runway Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0995102987",
+      "email": "isabella.williams@beautypro.com",
+      "dob": "1992-11-20",
+      "bankAccount": {
+        "bank": "TPBank",
+        "stk": "9129757591",
+        "name": "Isabella Williams"
+      },
+      "address": "Ho Chi Minh City",
+      "areaBook": "Can Tho",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-06",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 190,
+      "rating": 4.17,
+      "experience": "15 years",
+      "schedule": [
+        {
+          "id": "SCH-006-1",
+          "customer": {
+            "id": "CUS-006-1",
+            "name": "Amelia Johnson",
+            "avatar": "https://randomuser.me/api/portraits/women/46.jpg",
+            "phone": "0932615097",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-26",
+          "time": "09:30 AM",
+          "duration": "123 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-006-2",
+          "customer": {
+            "id": "CUS-006-2",
+            "name": "Evelyn Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/27.jpg",
+            "phone": "0957174677",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-12",
+          "time": "04:30 PM",
+          "duration": "180 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-006-3",
+          "customer": {
+            "id": "CUS-006-3",
+            "name": "Olivia Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/34.jpg",
+            "phone": "0992497351",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-06",
+          "time": "09:30 AM",
+          "duration": "138 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-006-4",
+          "customer": {
+            "id": "CUS-006-4",
+            "name": "Evelyn Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/89.jpg",
+            "phone": "0929758009",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-05-28",
+          "time": "08:30 PM",
+          "duration": "143 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-006-5",
+          "customer": {
+            "id": "CUS-006-5",
+            "name": "Isabella Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/75.jpg",
+            "phone": "0948341002",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-09",
+          "time": "12:30 PM",
+          "duration": "159 minutes",
+          "status": 1
+        }
+      ],
+      "totalIncome": 9219,
+      "totalBooked": 84,
+      "totalCancel": 5,
+      "totalCustomer": 53,
+      "productUsed": [
+        "NARS Concealer",
+        "MAC Foundation",
+        "Maybelline Mascara",
+        "Fenty Highlighter"
+      ]
+    },
+    {
+      "idArtist": "ART-007",
+      "nameArtist": "Olivia Garcia",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Runway Makeup",
+      "status": 1,
+      "gender": 1,
+      "phone": "0946769396",
+      "email": "olivia.garcia@beautypro.com",
+      "dob": "1989-05-17",
+      "bankAccount": {
+        "bank": "Techcombank",
+        "stk": "8286951884",
+        "name": "Olivia Garcia"
+      },
+      "address": "Da Nang",
+      "areaBook": "Hanoi",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-10",
+      "services": [
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 196,
+      "rating": 4.68,
+      "experience": "12 years",
+      "schedule": [
+        {
+          "id": "SCH-007-1",
+          "customer": {
+            "id": "CUS-007-1",
+            "name": "Abigail Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/39.jpg",
+            "phone": "0955717880",
+            "note": "First-time customer",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-13",
+          "time": "04:00 PM",
+          "duration": "175 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-007-2",
+          "customer": {
+            "id": "CUS-007-2",
+            "name": "Olivia Johnson",
+            "avatar": "https://randomuser.me/api/portraits/women/28.jpg",
+            "phone": "0988876458",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-08",
+          "time": "09:00 AM",
+          "duration": "158 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-007-3",
+          "customer": {
+            "id": "CUS-007-3",
+            "name": "Amelia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+            "phone": "0943523723",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-07",
+          "time": "11:00 AM",
+          "duration": "157 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-007-4",
+          "customer": {
+            "id": "CUS-007-4",
+            "name": "Amelia Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+            "phone": "0930072062",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-04",
+          "time": "03:45 PM",
+          "duration": "144 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-007-5",
+          "customer": {
+            "id": "CUS-007-5",
+            "name": "Emma Johnson",
+            "avatar": "https://randomuser.me/api/portraits/women/82.jpg",
+            "phone": "0943237659",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-07",
+          "time": "09:00 PM",
+          "duration": "176 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 4479,
+      "totalBooked": 127,
+      "totalCancel": 4,
+      "totalCustomer": 69,
+      "productUsed": [
+        "NARS Concealer",
+        "MAC Foundation",
+        "Urban Decay Eyeshadow",
+        "Maybelline Mascara"
+      ]
+    },
+    {
+      "idArtist": "ART-008",
+      "nameArtist": "Evelyn Garcia",
+      "avatar": "https://randomuser.me/api/portraits/women/64.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Bridal Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0965274915",
+      "email": "evelyn.garcia@beautypro.com",
+      "dob": "1987-03-23",
+      "bankAccount": {
+        "bank": "TPBank",
+        "stk": "3127193809",
+        "name": "Evelyn Garcia"
+      },
+      "address": "Hai Phong",
+      "areaBook": "Ho Chi Minh City",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-25",
+      "services": [
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 0
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 186,
+      "rating": 4.51,
+      "experience": "9 years",
+      "schedule": [
+        {
+          "id": "SCH-008-1",
+          "customer": {
+            "id": "CUS-008-1",
+            "name": "Mia Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/38.jpg",
+            "phone": "0998779256",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-31",
+          "time": "09:45 PM",
+          "duration": "118 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-008-2",
+          "customer": {
+            "id": "CUS-008-2",
+            "name": "Emma Garcia",
+            "avatar": "https://randomuser.me/api/portraits/women/47.jpg",
+            "phone": "0988288655",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-31",
+          "time": "11:30 AM",
+          "duration": "130 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-008-3",
+          "customer": {
+            "id": "CUS-008-3",
+            "name": "Mia Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/90.jpg",
+            "phone": "0989340405",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-03",
+          "time": "09:15 AM",
+          "duration": "91 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-008-4",
+          "customer": {
+            "id": "CUS-008-4",
+            "name": "Harper Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+            "phone": "0992424792",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-29",
+          "time": "09:45 PM",
+          "duration": "170 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-008-5",
+          "customer": {
+            "id": "CUS-008-5",
+            "name": "Sophia Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/85.jpg",
+            "phone": "0945766861",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-14",
+          "time": "08:30 PM",
+          "duration": "163 minutes",
+          "status": 2
+        }
+      ],
+      "totalIncome": 8997,
+      "totalBooked": 90,
+      "totalCancel": 6,
+      "totalCustomer": 82,
+      "productUsed": [
+        "Chanel Lipstick",
+        "Maybelline Mascara",
+        "Urban Decay Eyeshadow"
+      ]
+    },
+    {
+      "idArtist": "ART-009",
+      "nameArtist": "Evelyn Jones",
+      "avatar": "https://randomuser.me/api/portraits/women/57.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Everyday Glam",
+      "status": 1,
+      "gender": 1,
+      "phone": "0935636365",
+      "email": "evelyn.jones@beautypro.com",
+      "dob": "1992-04-20",
+      "bankAccount": {
+        "bank": "Vietcombank",
+        "stk": "3775208098",
+        "name": "Evelyn Jones"
+      },
+      "address": "Hai Phong",
+      "areaBook": "Hanoi",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-02",
+      "services": [
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 0
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 47,
+      "rating": 4.36,
+      "experience": "2 years",
+      "schedule": [
+        {
+          "id": "SCH-009-1",
+          "customer": {
+            "id": "CUS-009-1",
+            "name": "Sophia Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/85.jpg",
+            "phone": "0996905124",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-03",
+          "time": "09:15 AM",
+          "duration": "165 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-009-2",
+          "customer": {
+            "id": "CUS-009-2",
+            "name": "Evelyn Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/55.jpg",
+            "phone": "0996327402",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-08",
+          "time": "08:00 PM",
+          "duration": "140 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-009-3",
+          "customer": {
+            "id": "CUS-009-3",
+            "name": "Evelyn Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/47.jpg",
+            "phone": "0919806295",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-08",
+          "time": "07:45 PM",
+          "duration": "120 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-009-4",
+          "customer": {
+            "id": "CUS-009-4",
+            "name": "Abigail Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+            "phone": "0981266655",
+            "note": "First-time customer",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-27",
+          "time": "10:45 AM",
+          "duration": "144 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-009-5",
+          "customer": {
+            "id": "CUS-009-5",
+            "name": "Olivia Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/61.jpg",
+            "phone": "0995469430",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-01",
+          "time": "02:15 PM",
+          "duration": "174 minutes",
+          "status": 1
+        }
+      ],
+      "totalIncome": 3264,
+      "totalBooked": 130,
+      "totalCancel": 1,
+      "totalCustomer": 94,
+      "productUsed": [
+        "Chanel Lipstick",
+        "Fenty Highlighter",
+        "MAC Foundation",
+        "Maybelline Mascara",
+        "Urban Decay Eyeshadow"
+      ]
+    },
+    {
+      "idArtist": "ART-010",
+      "nameArtist": "Evelyn Jones",
+      "avatar": "https://randomuser.me/api/portraits/women/26.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Everyday Glam",
+      "status": 1,
+      "gender": 0,
+      "phone": "0992517309",
+      "email": "evelyn.jones@beautypro.com",
+      "dob": "1989-05-09",
+      "bankAccount": {
+        "bank": "Vietcombank",
+        "stk": "6310164061",
+        "name": "Evelyn Jones"
+      },
+      "address": "Ho Chi Minh City",
+      "areaBook": "Da Nang",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-05",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 0
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 13,
+      "rating": 4.01,
+      "experience": "11 years",
+      "schedule": [
+        {
+          "id": "SCH-010-1",
+          "customer": {
+            "id": "CUS-010-1",
+            "name": "Isabella Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/77.jpg",
+            "phone": "0979210792",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-13",
+          "time": "02:15 PM",
+          "duration": "122 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-010-2",
+          "customer": {
+            "id": "CUS-010-2",
+            "name": "Abigail Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/56.jpg",
+            "phone": "0972104159",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-27",
+          "time": "04:45 PM",
+          "duration": "116 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-010-3",
+          "customer": {
+            "id": "CUS-010-3",
+            "name": "Harper Garcia",
+            "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+            "phone": "0918646620",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-05-29",
+          "time": "10:30 AM",
+          "duration": "125 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-010-4",
+          "customer": {
+            "id": "CUS-010-4",
+            "name": "Sophia Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
+            "phone": "0949281505",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-03",
+          "time": "09:30 AM",
+          "duration": "102 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-010-5",
+          "customer": {
+            "id": "CUS-010-5",
+            "name": "Abigail Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/76.jpg",
+            "phone": "0986344141",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-04",
+          "time": "02:45 PM",
+          "duration": "98 minutes",
+          "status": 2
+        }
+      ],
+      "totalIncome": 17064,
+      "totalBooked": 193,
+      "totalCancel": 8,
+      "totalCustomer": 58,
+      "productUsed": [
+        "Maybelline Mascara",
+        "Chanel Lipstick"
+      ]
+    },
+    {
+      "idArtist": "ART-011",
+      "nameArtist": "Olivia Garcia",
+      "avatar": "https://randomuser.me/api/portraits/women/63.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "SFX Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0919716586",
+      "email": "olivia.garcia@beautypro.com",
+      "dob": "1986-11-12",
+      "bankAccount": {
+        "bank": "TPBank",
+        "stk": "6111969657",
+        "name": "Olivia Garcia"
+      },
+      "address": "Hai Phong",
+      "areaBook": "Hai Phong",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-03",
+      "services": [
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 134,
+      "rating": 4.71,
+      "experience": "15 years",
+      "schedule": [
+        {
+          "id": "SCH-011-1",
+          "customer": {
+            "id": "CUS-011-1",
+            "name": "Ava Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/87.jpg",
+            "phone": "0982489797",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-30",
+          "time": "05:15 PM",
+          "duration": "112 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-011-2",
+          "customer": {
+            "id": "CUS-011-2",
+            "name": "Emma Garcia",
+            "avatar": "https://randomuser.me/api/portraits/women/76.jpg",
+            "phone": "0967310043",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-05-27",
+          "time": "08:15 AM",
+          "duration": "99 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-011-3",
+          "customer": {
+            "id": "CUS-011-3",
+            "name": "Sophia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/82.jpg",
+            "phone": "0955966033",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-27",
+          "time": "09:30 AM",
+          "duration": "179 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-011-4",
+          "customer": {
+            "id": "CUS-011-4",
+            "name": "Abigail Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/90.jpg",
+            "phone": "0986049275",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-04",
+          "time": "01:15 PM",
+          "duration": "143 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-011-5",
+          "customer": {
+            "id": "CUS-011-5",
+            "name": "Isabella Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+            "phone": "0985378881",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-03",
+          "time": "04:30 PM",
+          "duration": "106 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 14656,
+      "totalBooked": 149,
+      "totalCancel": 2,
+      "totalCustomer": 99,
+      "productUsed": [
+        "MAC Foundation",
+        "Maybelline Mascara",
+        "Fenty Highlighter",
+        "NARS Concealer"
+      ]
+    },
+    {
+      "idArtist": "ART-012",
+      "nameArtist": "Abigail Lopez",
+      "avatar": "https://randomuser.me/api/portraits/women/88.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Bridal Makeup",
+      "status": 1,
+      "gender": 1,
+      "phone": "0958899817",
+      "email": "abigail.lopez@beautypro.com",
+      "dob": "1988-12-20",
+      "bankAccount": {
+        "bank": "TPBank",
+        "stk": "7337206495",
+        "name": "Abigail Lopez"
+      },
+      "address": "Hanoi",
+      "areaBook": "Ho Chi Minh City",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-20",
+      "services": [
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 72,
+      "rating": 4.22,
+      "experience": "9 years",
+      "schedule": [
+        {
+          "id": "SCH-012-1",
+          "customer": {
+            "id": "CUS-012-1",
+            "name": "Abigail Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/78.jpg",
+            "phone": "0957427564",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-03",
+          "time": "12:30 PM",
+          "duration": "156 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-012-2",
+          "customer": {
+            "id": "CUS-012-2",
+            "name": "Olivia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/59.jpg",
+            "phone": "0960431739",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-03",
+          "time": "06:15 PM",
+          "duration": "176 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-012-3",
+          "customer": {
+            "id": "CUS-012-3",
+            "name": "Sophia Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/74.jpg",
+            "phone": "0955375840",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-05",
+          "time": "12:15 PM",
+          "duration": "153 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-012-4",
+          "customer": {
+            "id": "CUS-012-4",
+            "name": "Mia Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/71.jpg",
+            "phone": "0986862896",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-29",
+          "time": "01:30 PM",
+          "duration": "144 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-012-5",
+          "customer": {
+            "id": "CUS-012-5",
+            "name": "Olivia Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/61.jpg",
+            "phone": "0976422490",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-04",
+          "time": "12:15 PM",
+          "duration": "172 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 14871,
+      "totalBooked": 58,
+      "totalCancel": 9,
+      "totalCustomer": 54,
+      "productUsed": [
+        "NARS Concealer",
+        "Fenty Highlighter",
+        "Urban Decay Eyeshadow",
+        "Maybelline Mascara"
+      ]
+    },
+    {
+      "idArtist": "ART-013",
+      "nameArtist": "Harper Williams",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Bridal Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0957062863",
+      "email": "harper.williams@beautypro.com",
+      "dob": "1995-04-28",
+      "bankAccount": {
+        "bank": "TPBank",
+        "stk": "2058231325",
+        "name": "Harper Williams"
+      },
+      "address": "Can Tho",
+      "areaBook": "Da Nang",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-13",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 36,
+      "rating": 4.57,
+      "experience": "8 years",
+      "schedule": [
+        {
+          "id": "SCH-013-1",
+          "customer": {
+            "id": "CUS-013-1",
+            "name": "Harper Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/43.jpg",
+            "phone": "0946145986",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-11",
+          "time": "05:00 PM",
+          "duration": "143 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-013-2",
+          "customer": {
+            "id": "CUS-013-2",
+            "name": "Evelyn Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
+            "phone": "0954341354",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-07",
+          "time": "02:15 PM",
+          "duration": "171 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-013-3",
+          "customer": {
+            "id": "CUS-013-3",
+            "name": "Emma Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
+            "phone": "0922448387",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-04",
+          "time": "01:15 PM",
+          "duration": "172 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-013-4",
+          "customer": {
+            "id": "CUS-013-4",
+            "name": "Isabella Johnson",
+            "avatar": "https://randomuser.me/api/portraits/women/90.jpg",
+            "phone": "0938112417",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-04",
+          "time": "08:15 AM",
+          "duration": "104 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-013-5",
+          "customer": {
+            "id": "CUS-013-5",
+            "name": "Mia Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/83.jpg",
+            "phone": "0967759047",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-06",
+          "time": "08:00 PM",
+          "duration": "171 minutes",
+          "status": 2
+        }
+      ],
+      "totalIncome": 9068,
+      "totalBooked": 121,
+      "totalCancel": 2,
+      "totalCustomer": 66,
+      "productUsed": [
+        "NARS Concealer",
+        "MAC Foundation",
+        "Fenty Highlighter"
+      ]
+    },
+    {
+      "idArtist": "ART-014",
+      "nameArtist": "Isabella Garcia",
+      "avatar": "https://randomuser.me/api/portraits/women/49.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Runway Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0943646935",
+      "email": "isabella.garcia@beautypro.com",
+      "dob": "1996-10-14",
+      "bankAccount": {
+        "bank": "VPBank",
+        "stk": "3458267422",
+        "name": "Isabella Garcia"
+      },
+      "address": "Ho Chi Minh City",
+      "areaBook": "Da Nang",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-21",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 124,
+      "rating": 4.1,
+      "experience": "3 years",
+      "schedule": [
+        {
+          "id": "SCH-014-1",
+          "customer": {
+            "id": "CUS-014-1",
+            "name": "Isabella Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/62.jpg",
+            "phone": "0983753364",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-14",
+          "time": "12:00 PM",
+          "duration": "176 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-014-2",
+          "customer": {
+            "id": "CUS-014-2",
+            "name": "Isabella Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/72.jpg",
+            "phone": "0990483711",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-13",
+          "time": "08:15 PM",
+          "duration": "117 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-014-3",
+          "customer": {
+            "id": "CUS-014-3",
+            "name": "Abigail Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/47.jpg",
+            "phone": "0960035310",
+            "note": "First-time customer",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-06",
+          "time": "09:45 PM",
+          "duration": "100 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-014-4",
+          "customer": {
+            "id": "CUS-014-4",
+            "name": "Ava Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/70.jpg",
+            "phone": "0972595522",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-07",
+          "time": "04:15 PM",
+          "duration": "154 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-014-5",
+          "customer": {
+            "id": "CUS-014-5",
+            "name": "Evelyn Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/39.jpg",
+            "phone": "0921631207",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-31",
+          "time": "07:45 PM",
+          "duration": "116 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 4619,
+      "totalBooked": 82,
+      "totalCancel": 4,
+      "totalCustomer": 66,
+      "productUsed": [
+        "Maybelline Mascara",
+        "NARS Concealer",
+        "Chanel Lipstick",
+        "MAC Foundation",
+        "Urban Decay Eyeshadow"
+      ]
+    },
+    {
+      "idArtist": "ART-015",
+      "nameArtist": "Evelyn Lopez",
+      "avatar": "https://randomuser.me/api/portraits/women/34.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Editorial Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0959423181",
+      "email": "evelyn.lopez@beautypro.com",
+      "dob": "1997-07-03",
+      "bankAccount": {
+        "bank": "VPBank",
+        "stk": "3788606054",
+        "name": "Evelyn Lopez"
+      },
+      "address": "Hanoi",
+      "areaBook": "Hai Phong",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-24",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 38,
+      "rating": 4.1,
+      "experience": "15 years",
+      "schedule": [
+        {
+          "id": "SCH-015-1",
+          "customer": {
+            "id": "CUS-015-1",
+            "name": "Isabella Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/67.jpg",
+            "phone": "0910783507",
+            "note": "First-time customer",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-30",
+          "time": "11:00 AM",
+          "duration": "107 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-015-2",
+          "customer": {
+            "id": "CUS-015-2",
+            "name": "Mia Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/13.jpg",
+            "phone": "0977830259",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-05-29",
+          "time": "07:45 PM",
+          "duration": "166 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-015-3",
+          "customer": {
+            "id": "CUS-015-3",
+            "name": "Ava Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/71.jpg",
+            "phone": "0961102926",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-08",
+          "time": "08:00 AM",
+          "duration": "118 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-015-4",
+          "customer": {
+            "id": "CUS-015-4",
+            "name": "Emma Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
+            "phone": "0935890562",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-26",
+          "time": "02:45 PM",
+          "duration": "162 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-015-5",
+          "customer": {
+            "id": "CUS-015-5",
+            "name": "Harper Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/36.jpg",
+            "phone": "0992402232",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-11",
+          "time": "03:45 PM",
+          "duration": "156 minutes",
+          "status": 2
+        }
+      ],
+      "totalIncome": 11278,
+      "totalBooked": 154,
+      "totalCancel": 3,
+      "totalCustomer": 50,
+      "productUsed": [
+        "Chanel Lipstick",
+        "MAC Foundation"
+      ]
+    },
+    {
+      "idArtist": "ART-016",
+      "nameArtist": "Olivia Jones",
+      "avatar": "https://randomuser.me/api/portraits/women/47.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Runway Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0952350390",
+      "email": "olivia.jones@beautypro.com",
+      "dob": "1997-08-01",
+      "bankAccount": {
+        "bank": "Vietcombank",
+        "stk": "2701739069",
+        "name": "Olivia Jones"
+      },
+      "address": "Can Tho",
+      "areaBook": "Ho Chi Minh City",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-01",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 29,
+      "rating": 4.95,
+      "experience": "3 years",
+      "schedule": [
+        {
+          "id": "SCH-016-1",
+          "customer": {
+            "id": "CUS-016-1",
+            "name": "Evelyn Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/79.jpg",
+            "phone": "0936560643",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-07",
+          "time": "12:15 PM",
+          "duration": "111 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-016-2",
+          "customer": {
+            "id": "CUS-016-2",
+            "name": "Mia Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/75.jpg",
+            "phone": "0967743323",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-03",
+          "time": "08:45 PM",
+          "duration": "152 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-016-3",
+          "customer": {
+            "id": "CUS-016-3",
+            "name": "Emma Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
+            "phone": "0967349988",
+            "note": "First-time customer",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-11",
+          "time": "08:15 PM",
+          "duration": "133 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-016-4",
+          "customer": {
+            "id": "CUS-016-4",
+            "name": "Harper Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+            "phone": "0960022210",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-10",
+          "time": "09:30 AM",
+          "duration": "133 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-016-5",
+          "customer": {
+            "id": "CUS-016-5",
+            "name": "Mia Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/49.jpg",
+            "phone": "0959811422",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-05",
+          "time": "07:45 PM",
+          "duration": "110 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 11898,
+      "totalBooked": 193,
+      "totalCancel": 9,
+      "totalCustomer": 77,
+      "productUsed": [
+        "Maybelline Mascara",
+        "Fenty Highlighter",
+        "Chanel Lipstick",
+        "NARS Concealer"
+      ]
+    },
+    {
+      "idArtist": "ART-017",
+      "nameArtist": "Mia Williams",
+      "avatar": "https://randomuser.me/api/portraits/women/20.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "Runway Makeup",
+      "status": 1,
+      "gender": 1,
+      "phone": "0940910921",
+      "email": "mia.williams@beautypro.com",
+      "dob": "1997-11-28",
+      "bankAccount": {
+        "bank": "TPBank",
+        "stk": "4976535058",
+        "name": "Mia Williams"
+      },
+      "address": "Da Nang",
+      "areaBook": "Hai Phong",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-03",
+      "services": [
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 86,
+      "rating": 4.55,
+      "experience": "12 years",
+      "schedule": [
+        {
+          "id": "SCH-017-1",
+          "customer": {
+            "id": "CUS-017-1",
+            "name": "Ava Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/37.jpg",
+            "phone": "0953828053",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-10",
+          "time": "08:45 PM",
+          "duration": "159 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-017-2",
+          "customer": {
+            "id": "CUS-017-2",
+            "name": "Olivia Garcia",
+            "avatar": "https://randomuser.me/api/portraits/women/47.jpg",
+            "phone": "0966489937",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-10",
+          "time": "09:00 PM",
+          "duration": "128 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-017-3",
+          "customer": {
+            "id": "CUS-017-3",
+            "name": "Isabella Johnson",
+            "avatar": "https://randomuser.me/api/portraits/women/77.jpg",
+            "phone": "0992644726",
+            "note": "Returning client",
+            "address": "Hanoi"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-27",
+          "time": "08:45 AM",
+          "duration": "113 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-017-4",
+          "customer": {
+            "id": "CUS-017-4",
+            "name": "Mia Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/63.jpg",
+            "phone": "0955633698",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-13",
+          "time": "08:30 AM",
+          "duration": "158 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-017-5",
+          "customer": {
+            "id": "CUS-017-5",
+            "name": "Evelyn Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/37.jpg",
+            "phone": "0981026198",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-13",
+          "time": "08:30 AM",
+          "duration": "128 minutes",
+          "status": 2
+        }
+      ],
+      "totalIncome": 12836,
+      "totalBooked": 139,
+      "totalCancel": 4,
+      "totalCustomer": 31,
+      "productUsed": [
+        "Maybelline Mascara",
+        "Chanel Lipstick",
+        "NARS Concealer",
+        "Urban Decay Eyeshadow",
+        "MAC Foundation"
+      ]
+    },
+    {
+      "idArtist": "ART-018",
+      "nameArtist": "Mia Williams",
+      "avatar": "https://randomuser.me/api/portraits/women/89.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Editorial Makeup",
+      "status": 1,
+      "gender": 0,
+      "phone": "0924706124",
+      "email": "mia.williams@beautypro.com",
+      "dob": "1988-04-12",
+      "bankAccount": {
+        "bank": "TPBank",
+        "stk": "2227194948",
+        "name": "Mia Williams"
+      },
+      "address": "Hanoi",
+      "areaBook": "Ho Chi Minh City",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-17",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 10,
+      "rating": 4.46,
+      "experience": "6 years",
+      "schedule": [
+        {
+          "id": "SCH-018-1",
+          "customer": {
+            "id": "CUS-018-1",
+            "name": "Amelia Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/42.jpg",
+            "phone": "0957219492",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-30",
+          "time": "04:45 PM",
+          "duration": "122 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-018-2",
+          "customer": {
+            "id": "CUS-018-2",
+            "name": "Ava Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
+            "phone": "0926522820",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-05-31",
+          "time": "03:30 PM",
+          "duration": "161 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-018-3",
+          "customer": {
+            "id": "CUS-018-3",
+            "name": "Amelia Lopez",
+            "avatar": "https://randomuser.me/api/portraits/women/69.jpg",
+            "phone": "0931383365",
+            "note": "Returning client",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-14",
+          "time": "08:00 PM",
+          "duration": "169 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-018-4",
+          "customer": {
+            "id": "CUS-018-4",
+            "name": "Olivia Johnson",
+            "avatar": "https://randomuser.me/api/portraits/women/26.jpg",
+            "phone": "0928226968",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Bridal Makeup",
+          "date": "2025-06-11",
+          "time": "12:45 PM",
+          "duration": "121 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-018-5",
+          "customer": {
+            "id": "CUS-018-5",
+            "name": "Harper Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+            "phone": "0929400484",
+            "note": "First-time customer",
+            "address": "Hai Phong"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-04",
+          "time": "04:00 PM",
+          "duration": "161 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 19209,
+      "totalBooked": 143,
+      "totalCancel": 1,
+      "totalCustomer": 60,
+      "productUsed": [
+        "Fenty Highlighter",
+        "Chanel Lipstick",
+        "Urban Decay Eyeshadow",
+        "MAC Foundation",
+        "NARS Concealer"
+      ]
+    },
+    {
+      "idArtist": "ART-019",
+      "nameArtist": "Ava Jones",
+      "avatar": "https://randomuser.me/api/portraits/women/80.jpg",
+      "role": "Senior Makeup Artist",
+      "specialty": "Everyday Glam",
+      "status": 1,
+      "gender": 1,
+      "phone": "0977414486",
+      "email": "ava.jones@beautypro.com",
+      "dob": "1985-05-21",
+      "bankAccount": {
+        "bank": "Techcombank",
+        "stk": "9550827822",
+        "name": "Ava Jones"
+      },
+      "address": "Ho Chi Minh City",
+      "areaBook": "Hanoi",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-05",
+      "services": [
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        },
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 50,
+      "rating": 4.45,
+      "experience": "11 years",
+      "schedule": [
+        {
+          "id": "SCH-019-1",
+          "customer": {
+            "id": "CUS-019-1",
+            "name": "Abigail Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/29.jpg",
+            "phone": "0999551117",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-04",
+          "time": "05:15 PM",
+          "duration": "150 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-019-2",
+          "customer": {
+            "id": "CUS-019-2",
+            "name": "Mia Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/77.jpg",
+            "phone": "0949216719",
+            "note": "First-time customer",
+            "address": "Hanoi"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-06",
+          "time": "12:30 PM",
+          "duration": "152 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-019-3",
+          "customer": {
+            "id": "CUS-019-3",
+            "name": "Emma Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/55.jpg",
+            "phone": "0987528316",
+            "note": "Returning client",
+            "address": "Can Tho"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-11",
+          "time": "04:45 PM",
+          "duration": "156 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-019-4",
+          "customer": {
+            "id": "CUS-019-4",
+            "name": "Evelyn Martinez",
+            "avatar": "https://randomuser.me/api/portraits/women/56.jpg",
+            "phone": "0953609704",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-02",
+          "time": "09:00 PM",
+          "duration": "100 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-019-5",
+          "customer": {
+            "id": "CUS-019-5",
+            "name": "Harper Wilson",
+            "avatar": "https://randomuser.me/api/portraits/women/29.jpg",
+            "phone": "0936669806",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-05-26",
+          "time": "03:45 PM",
+          "duration": "143 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 5453,
+      "totalBooked": 111,
+      "totalCancel": 10,
+      "totalCustomer": 77,
+      "productUsed": [
+        "Maybelline Mascara",
+        "Urban Decay Eyeshadow",
+        "Chanel Lipstick",
+        "Fenty Highlighter"
+      ]
+    },
+    {
+      "idArtist": "ART-020",
+      "nameArtist": "Harper Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/83.jpg",
+      "role": "Junior Makeup Artist",
+      "specialty": "SFX Makeup",
+      "status": 1,
+      "gender": 1,
+      "phone": "0996171821",
+      "email": "harper.wilson@beautypro.com",
+      "dob": "1985-09-09",
+      "bankAccount": {
+        "bank": "VPBank",
+        "stk": "2862024236",
+        "name": "Harper Wilson"
+      },
+      "address": "Hanoi",
+      "areaBook": "Can Tho",
+      "note": "Highly rated for precision and professionalism.",
+      "aboutArtist": "Experienced makeup artist with a passion for beauty and transformation.",
+      "timeJoin": "2025-05-20",
+      "services": [
+        {
+          "id": "SVC-003",
+          "name": "Photoshoot Makeup",
+          "price": 130,
+          "description": "Makeup for photoshoots",
+          "status": 1
+        },
+        {
+          "id": "SVC-001",
+          "name": "Bridal Makeup",
+          "price": 150,
+          "description": "Full bridal makeup package",
+          "status": 1
+        },
+        {
+          "id": "SVC-002",
+          "name": "Party Makeup",
+          "price": 100,
+          "description": "Evening event makeup",
+          "status": 1
+        }
+      ],
+      "certificateImg": [
+        "https://coolmakeupartist.weebly.com/uploads/1/4/0/7/14075888/6086653.jpg?408",
+        "https://www.qcmakeupacademy.com/wp-content/uploads/2017/12/certificate-2018-2.jpg",
+        "https://www.iapcollege.com/wp-content/uploads/sample-certificate-makeup-artist-certification-course-online.jpg"
+      ],
+      "reviewCount": 47,
+      "rating": 4.19,
+      "experience": "10 years",
+      "schedule": [
+        {
+          "id": "SCH-020-1",
+          "customer": {
+            "id": "CUS-020-1",
+            "name": "Mia Smith",
+            "avatar": "https://randomuser.me/api/portraits/women/59.jpg",
+            "phone": "0915196091",
+            "note": "First-time customer",
+            "address": "Ho Chi Minh City"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-08",
+          "time": "09:00 AM",
+          "duration": "145 minutes",
+          "status": 2
+        },
+        {
+          "id": "SCH-020-2",
+          "customer": {
+            "id": "CUS-020-2",
+            "name": "Isabella Davis",
+            "avatar": "https://randomuser.me/api/portraits/women/38.jpg",
+            "phone": "0924848840",
+            "note": "Returning client",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-06",
+          "time": "08:00 PM",
+          "duration": "129 minutes",
+          "status": 0
+        },
+        {
+          "id": "SCH-020-3",
+          "customer": {
+            "id": "CUS-020-3",
+            "name": "Harper Jones",
+            "avatar": "https://randomuser.me/api/portraits/women/74.jpg",
+            "phone": "0979312531",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-10",
+          "time": "02:15 PM",
+          "duration": "167 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-020-4",
+          "customer": {
+            "id": "CUS-020-4",
+            "name": "Abigail Williams",
+            "avatar": "https://randomuser.me/api/portraits/women/72.jpg",
+            "phone": "0912619560",
+            "note": "First-time customer",
+            "address": "Can Tho"
+          },
+          "service": "Photoshoot Makeup",
+          "date": "2025-06-14",
+          "time": "11:30 AM",
+          "duration": "98 minutes",
+          "status": 1
+        },
+        {
+          "id": "SCH-020-5",
+          "customer": {
+            "id": "CUS-020-5",
+            "name": "Sophia Brown",
+            "avatar": "https://randomuser.me/api/portraits/women/63.jpg",
+            "phone": "0961226071",
+            "note": "First-time customer",
+            "address": "Da Nang"
+          },
+          "service": "Party Makeup",
+          "date": "2025-06-15",
+          "time": "07:00 PM",
+          "duration": "118 minutes",
+          "status": 0
+        }
+      ],
+      "totalIncome": 7811,
+      "totalBooked": 182,
+      "totalCancel": 6,
+      "totalCustomer": 57,
+      "productUsed": [
+        "MAC Foundation",
+        "Maybelline Mascara",
+        "NARS Concealer",
+        "Urban Decay Eyeshadow"
+      ]
+    }
+  ]
+}

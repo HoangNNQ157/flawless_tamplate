@@ -1,0 +1,187 @@
+{
+  "totalRevenue": {
+    "totalIcomeAllYear": 229525,
+    "perYear": [
+      {
+        "year": 2023,
+        "totalIcomePerYear": 74900,
+        "totalNetProfitPerYear": 42400,
+        "totalRefundPerYear": 28750,
+        "bestIcome": {
+          "month": "Dec",
+          "income": 7100
+        },
+        "bestNetProfit": {
+          "month": "Dec",
+          "netProfit": 4200
+        },
+        "bestRefund": {
+          "month": "Dec",
+          "refund": 2700
+        },
+        "income": {
+          "jan": 5200,
+          "feb": 5400,
+          "mar": 5600,
+          "apr": 5900,
+          "may": 6200,
+          "jun": 6500,
+          "jul": 6800,
+          "aug": 6400,
+          "sep": 6200,
+          "oct": 6700,
+          "nov": 6900,
+          "dec": 7100
+        },
+        "refund": {
+          "jan": 2000,
+          "feb": 2200,
+          "mar": 2300,
+          "apr": 2000,
+          "may": 2400,
+          "jun": 2500,
+          "jul": 2600,
+          "aug": 2550,
+          "sep": 2400,
+          "oct": 2500,
+          "nov": 2600,
+          "dec": 2700
+        },
+        "netProfit": {
+          "jan": 2500,
+          "feb": 2700,
+          "mar": 3100,
+          "apr": 3400,
+          "may": 3600,
+          "jun": 3800,
+          "jul": 3900,
+          "aug": 3700,
+          "sep": 3500,
+          "oct": 3900,
+          "nov": 4100,
+          "dec": 4200
+        }
+      },
+      {
+        "year": 2024,
+        "totalIcomePerYear": 77600,
+        "totalNetProfitPerYear": 42400,
+        "totalRefundPerYear": 29700,
+        "bestIcome": {
+          "month": "Dec",
+          "income": 7300
+        },
+        "bestNetProfit": {
+          "month": "Dec",
+          "netProfit": 4300
+        },
+        "bestRefund": {
+          "month": "Dec",
+          "refund": 2800
+        },
+        "income": {
+          "jan": 5600,
+          "feb": 5700,
+          "mar": 5900,
+          "apr": 6000,
+          "may": 6400,
+          "jun": 6600,
+          "jul": 6900,
+          "aug": 6700,
+          "sep": 6500,
+          "oct": 6900,
+          "nov": 7100,
+          "dec": 7300
+        },
+        "refund": {
+          "jan": 2200,
+          "feb": 2100,
+          "mar": 2200,
+          "apr": 2300,
+          "may": 2400,
+          "jun": 2600,
+          "jul": 2700,
+          "aug": 2600,
+          "sep": 2500,
+          "oct": 2600,
+          "nov": 2700,
+          "dec": 2800
+        },
+        "netProfit": {
+          "jan": 2700,
+          "feb": 2900,
+          "mar": 3100,
+          "apr": 3200,
+          "may": 3400,
+          "jun": 3600,
+          "jul": 3900,
+          "aug": 3700,
+          "sep": 3600,
+          "oct": 3900,
+          "nov": 4100,
+          "dec": 4300
+        }
+      },
+      {
+        "year": 2025,
+        "totalIcomePerYear": 77025,
+        "totalNetProfitPerYear": 42600,
+        "totalRefundPerYear": 28600,
+        "bestIcome": {
+          "month": "Dec",
+          "income": 7300
+        },
+        "bestNetProfit": {
+          "month": "Dec",
+          "netProfit": 4300
+        },
+        "bestRefund": {
+          "month": "Aug",
+          "refund": 2700
+        },
+        "income": {
+          "jan": 5800,
+          "feb": 6100,
+          "mar": 5900,
+          "apr": 5600,
+          "may": 6000,
+          "jun": 7000,
+          "jul": 7125,
+          "aug": 6400,
+          "sep": 6200,
+          "oct": 6500,
+          "nov": 7100,
+          "dec": 7300
+        },
+        "refund": {
+          "jan": 2200,
+          "feb": 2100,
+          "mar": 2300,
+          "apr": 2000,
+          "may": 2400,
+          "jun": 2600,
+          "jul": 2500,
+          "aug": 2700,
+          "sep": 2300,
+          "oct": 2400,
+          "nov": 2500,
+          "dec": 2600
+        },
+        "netProfit": {
+          "jan": 2500,
+          "feb": 2800,
+          "mar": 3900,
+          "apr": 3200,
+          "may": 2900,
+          "jun": 3600,
+          "jul": 4100,
+          "aug": 3900,
+          "sep": 3400,
+          "oct": 3800,
+          "nov": 4200,
+          "dec": 4300
+        }
+      }
+    ]
+  }
+}

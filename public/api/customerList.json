@@ -1,0 +1,929 @@
+{
+    "customerList": [
+        {
+            "idCus": "cus1",
+            "nameCus": "Sharon Buck",
+            "avatarCus": "https://randomuser.me/api/portraits/men/9.jpg",
+            "artist": [
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                },
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                },
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": -1,
+                    "timebooking": "2025-03-21 - 08:01 PM"
+                },
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": 0,
+                    "timebooking": "2024-12-25 - 12:09 AM"
+                },
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": 1,
+                    "timebooking": "2024-08-15 - 05:47 PM"
+                }
+            ],
+            "status": 1,
+            "gender": 1,
+            "phone": "0996470615",
+            "email": "monica64@morris.com",
+            "address": "49 Lê Văn Việt, Quận 9, Thành phố Hồ Chí Minh",
+            "note": "Treatment despite score system behavior home east read. Staff focus media buy big."
+        },
+        {
+            "idCus": "cus2",
+            "nameCus": "Robert Anderson",
+            "avatarCus": "https://randomuser.me/api/portraits/men/24.jpg",
+            "artist": [
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                },
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                },
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser4",
+                    "nameSer": "Service 4",
+                    "description": "Call enjoy course.",
+                    "payment-status": -1,
+                    "timebooking": "2024-08-14 - 09:31 AM"
+                },
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": -1,
+                    "timebooking": "2024-07-31 - 07:17 PM"
+                },
+                {
+                    "idSer": "ser6",
+                    "nameSer": "Service 6",
+                    "description": "Myself white suddenly hot development.",
+                    "payment-status": 0,
+                    "timebooking": "2024-09-07 - 07:09 PM"
+                },
+                {
+                    "idSer": "ser8",
+                    "nameSer": "Service 8",
+                    "description": "Once leader mother bring around blood.",
+                    "payment-status": 1,
+                    "timebooking": "2024-06-10 - 03:35 PM"
+                },
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 0,
+                    "timebooking": "2024-09-26 - 06:33 PM"
+                }
+            ],
+            "status": 0,
+            "gender": 0,
+            "phone": "0900296849",
+            "email": "frylori@vaughn.com",
+            "address": "12 Nguyễn Huệ, Quận 1, Thành phố Hồ Chí Minh",
+            "note": "Laugh almost grow American fly. Take group cold consumer sign."
+        },
+        {
+            "idCus": "cus3",
+            "nameCus": "Christopher Martin",
+            "avatarCus": "https://randomuser.me/api/portraits/women/84.jpg",
+            "artist": [
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                },
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                },
+                {
+                    "idAr": "ar3",
+                    "nameAr": "Julie Ford"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser4",
+                    "nameSer": "Service 4",
+                    "description": "Call enjoy course.",
+                    "payment-status": -1,
+                    "timebooking": "2025-05-27 - 07:27 AM"
+                }
+            ],
+            "status": 0,
+            "gender": -1,
+            "phone": "0976736624",
+            "email": "john31@wilson-wright.info",
+            "address": "56 Trần Hưng Đạo, Quận 5, Thành phố Hồ Chí Minh",
+            "note": "Leader sometimes quickly ability. Wonder into describe still trip. Culture reality same."
+        },
+        {
+            "idCus": "cus4",
+            "nameCus": "Gregory Krueger",
+            "avatarCus": "https://randomuser.me/api/portraits/men/57.jpg",
+            "artist": [
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": 1,
+                    "timebooking": "2025-01-04 - 01:51 AM"
+                },
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": 1,
+                    "timebooking": "2025-02-11 - 06:52 AM"
+                },
+                {
+                    "idSer": "ser10",
+                    "nameSer": "Service 10",
+                    "description": "Here example collection likely.",
+                    "payment-status": 1,
+                    "timebooking": "2025-01-07 - 10:58 AM"
+                },
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": 1,
+                    "timebooking": "2024-10-29 - 10:29 AM"
+                },
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 0,
+                    "timebooking": "2024-10-26 - 11:27 PM"
+                }
+            ],
+            "status": 0,
+            "gender": 1,
+            "phone": "0994823175",
+            "email": "gary14@nichols.com",
+            "address": "88 Phan Đình Phùng, Phú Nhuận, Thành phố Hồ Chí Minh",
+            "note": "Field company western which read interest material. Role road fly."
+        },
+        {
+            "idCus": "cus5",
+            "nameCus": "Brady Daugherty",
+            "avatarCus": "https://randomuser.me/api/portraits/women/5.jpg",
+            "artist": [
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": 1,
+                    "timebooking": "2024-10-29 - 05:59 AM"
+                },
+                {
+                    "idSer": "ser6",
+                    "nameSer": "Service 6",
+                    "description": "Myself white suddenly hot development.",
+                    "payment-status": 1,
+                    "timebooking": "2025-04-19 - 02:07 PM"
+                },
+                {
+                    "idSer": "ser4",
+                    "nameSer": "Service 4",
+                    "description": "Call enjoy course.",
+                    "payment-status": -1,
+                    "timebooking": "2025-04-18 - 06:46 PM"
+                },
+                {
+                    "idSer": "ser3",
+                    "nameSer": "Service 3",
+                    "description": "Company play notice up arrive have.",
+                    "payment-status": 0,
+                    "timebooking": "2025-05-31 - 10:55 AM"
+                }
+            ],
+            "status": 1,
+            "gender": -1,
+            "phone": "0999247948",
+            "email": "matthewbooker@gmail.com",
+            "address": "21 Lý Thường Kiệt, Quận 10, Thành phố Hồ Chí Minh",
+            "note": "Nation different certain protect anyone he short. Affect senior note only."
+        },
+        {
+            "idCus": "cus6",
+            "nameCus": "Cheryl Rivera",
+            "avatarCus": "https://randomuser.me/api/portraits/women/74.jpg",
+            "artist": [
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": 0,
+                    "timebooking": "2025-05-25 - 11:34 PM"
+                },
+                {
+                    "idSer": "ser10",
+                    "nameSer": "Service 10",
+                    "description": "Here example collection likely.",
+                    "payment-status": -1,
+                    "timebooking": "2025-01-19 - 02:45 AM"
+                },
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": 0,
+                    "timebooking": "2024-06-08 - 03:27 AM"
+                }
+            ],
+            "status": 0,
+            "gender": -1,
+            "phone": "0958314576",
+            "email": "joan44@howe.com",
+            "address": "37 Cách Mạng Tháng Tám, Quận 3, Thành phố Hồ Chí Minh",
+            "note": "Stage no pick cover leave. Value under today involve career could civil."
+        },
+        {
+            "idCus": "cus7",
+            "nameCus": "Taylor Carson",
+            "avatarCus": "https://randomuser.me/api/portraits/women/6.jpg",
+            "artist": [
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser8",
+                    "nameSer": "Service 8",
+                    "description": "Once leader mother bring around blood.",
+                    "payment-status": 1,
+                    "timebooking": "2025-02-23 - 05:23 AM"
+                },
+                {
+                    "idSer": "ser4",
+                    "nameSer": "Service 4",
+                    "description": "Call enjoy course.",
+                    "payment-status": 1,
+                    "timebooking": "2025-05-08 - 07:22 AM"
+                },
+                {
+                    "idSer": "ser3",
+                    "nameSer": "Service 3",
+                    "description": "Company play notice up arrive have.",
+                    "payment-status": -1,
+                    "timebooking": "2025-01-11 - 09:56 PM"
+                },
+                {
+                    "idSer": "ser9",
+                    "nameSer": "Service 9",
+                    "description": "And despite try federal property.",
+                    "payment-status": -1,
+                    "timebooking": "2025-03-23 - 09:38 AM"
+                }
+            ],
+            "status": 1,
+            "gender": -1,
+            "phone": "0982018832",
+            "email": "daniel62@evans.org",
+            "address": "25 Hai Bà Trưng, Quận 1, Thành phố Hồ Chí Minh",
+            "note": "Go story store. Democrat become better score stock ability guy become."
+        },
+        {
+            "idCus": "cus8",
+            "nameCus": "Amanda Green",
+            "avatarCus": "https://randomuser.me/api/portraits/women/63.jpg",
+            "artist": [
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 1,
+                    "timebooking": "2025-05-29 - 12:30 AM"
+                },
+                {
+                    "idSer": "ser3",
+                    "nameSer": "Service 3",
+                    "description": "Company play notice up arrive have.",
+                    "payment-status": 0,
+                    "timebooking": "2024-07-17 - 11:38 PM"
+                },
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": 0,
+                    "timebooking": "2024-08-10 - 03:51 AM"
+                },
+                {
+                    "idSer": "ser6",
+                    "nameSer": "Service 6",
+                    "description": "Myself white suddenly hot development.",
+                    "payment-status": 0,
+                    "timebooking": "2024-10-09 - 01:48 AM"
+                },
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 0,
+                    "timebooking": "2024-11-17 - 11:04 PM"
+                }
+            ],
+            "status": 0,
+            "gender": -1,
+            "phone": "0975424945",
+            "email": "paigesellers@yahoo.com",
+            "address": "109 Nguyễn Thị Minh Khai, Quận 3, Thành phố Hồ Chí Minh",
+            "note": "Cost particularly six face company statement. Report fine baby son."
+        },
+        {
+            "idCus": "cus9",
+            "nameCus": "Sandra English",
+            "avatarCus": "https://randomuser.me/api/portraits/women/25.jpg",
+            "artist": [
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": -1,
+                    "timebooking": "2024-10-27 - 10:12 PM"
+                },
+                {
+                    "idSer": "ser9",
+                    "nameSer": "Service 9",
+                    "description": "And despite try federal property.",
+                    "payment-status": 1,
+                    "timebooking": "2025-05-07 - 10:15 PM"
+                },
+                {
+                    "idSer": "ser3",
+                    "nameSer": "Service 3",
+                    "description": "Company play notice up arrive have.",
+                    "payment-status": 0,
+                    "timebooking": "2025-06-02 - 02:46 AM"
+                },
+                {
+                    "idSer": "ser10",
+                    "nameSer": "Service 10",
+                    "description": "Here example collection likely.",
+                    "payment-status": -1,
+                    "timebooking": "2024-09-03 - 03:47 PM"
+                }
+            ],
+            "status": 1,
+            "gender": 0,
+            "phone": "0926561766",
+            "email": "ejenkins@mitchell.net",
+            "address": "14 Điện Biên Phủ, Bình Thạnh, Thành phố Hồ Chí Minh",
+            "note": "More speak in cost. Evening which development billion land."
+        },
+        {
+            "idCus": "cus10",
+            "nameCus": "Cindy Pierce",
+            "avatarCus": "https://randomuser.me/api/portraits/men/82.jpg",
+            "artist": [
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                },
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser9",
+                    "nameSer": "Service 9",
+                    "description": "And despite try federal property.",
+                    "payment-status": -1,
+                    "timebooking": "2025-02-13 - 02:20 AM"
+                },
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": 0,
+                    "timebooking": "2024-12-01 - 12:37 AM"
+                },
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 0,
+                    "timebooking": "2024-10-09 - 08:07 AM"
+                }
+            ],
+            "status": 1,
+            "gender": 0,
+            "phone": "0976991332",
+            "email": "johnsonryan@martinez-stevens.com",
+            "address": "67 Nguyễn Văn Cừ, Quận 5, Thành phố Hồ Chí Minh",
+            "note": "Seven best everyone police until nature fly. Rather office today."
+        },
+        {
+            "idCus": "cus11",
+            "nameCus": "Clayton Miller",
+            "avatarCus": "https://randomuser.me/api/portraits/men/3.jpg",
+            "artist": [
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                },
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                },
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": 0,
+                    "timebooking": "2024-12-30 - 02:12 AM"
+                },
+                {
+                    "idSer": "ser3",
+                    "nameSer": "Service 3",
+                    "description": "Company play notice up arrive have.",
+                    "payment-status": -1,
+                    "timebooking": "2025-05-21 - 07:07 PM"
+                },
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": 0,
+                    "timebooking": "2025-02-28 - 11:54 PM"
+                }
+            ],
+            "status": 1,
+            "gender": 1,
+            "phone": "0930353800",
+            "email": "jason07@yahoo.com",
+            "address": "43 Tô Hiến Thành, Quận 10, Thành phố Hồ Chí Minh",
+            "note": "Last leg company until join finally. Hour beyond interesting member center opportunity eat grow."
+        },
+        {
+            "idCus": "cus12",
+            "nameCus": "James Reed",
+            "avatarCus": "https://randomuser.me/api/portraits/women/18.jpg",
+            "artist": [
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                },
+                {
+                    "idAr": "ar3",
+                    "nameAr": "Julie Ford"
+                },
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": 0,
+                    "timebooking": "2024-06-30 - 12:39 AM"
+                },
+                {
+                    "idSer": "ser10",
+                    "nameSer": "Service 10",
+                    "description": "Here example collection likely.",
+                    "payment-status": 0,
+                    "timebooking": "2025-02-09 - 12:17 PM"
+                },
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 1,
+                    "timebooking": "2025-02-24 - 08:43 AM"
+                }
+            ],
+            "status": 1,
+            "gender": 0,
+            "phone": "0986936427",
+            "email": "bkey@hotmail.com",
+            "address": "92 Nguyễn Trãi, Quận 1, Thành phố Hồ Chí Minh",
+            "note": "Design thousand along eye visit guy sometimes. Cover analysis actually style commercial mind."
+        },
+        {
+            "idCus": "cus13",
+            "nameCus": "Joseph Jones",
+            "avatarCus": "https://randomuser.me/api/portraits/men/98.jpg",
+            "artist": [
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                },
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser10",
+                    "nameSer": "Service 10",
+                    "description": "Here example collection likely.",
+                    "payment-status": 0,
+                    "timebooking": "2024-10-08 - 07:56 AM"
+                }
+            ],
+            "status": 0,
+            "gender": 1,
+            "phone": "0913100993",
+            "email": "nclark@moss.com",
+            "address": "59 Lê Thánh Tôn, Quận 1, Thành phố Hồ Chí Minh",
+            "note": "After find mention direction million provide civil. Get daughter be indeed Mr agreement."
+        },
+        {
+            "idCus": "cus14",
+            "nameCus": "Jessica Martin",
+            "avatarCus": "https://randomuser.me/api/portraits/women/92.jpg",
+            "artist": [
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": 0,
+                    "timebooking": "2024-08-27 - 04:23 PM"
+                },
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 1,
+                    "timebooking": "2024-06-11 - 03:50 PM"
+                }
+            ],
+            "status": 1,
+            "gender": -1,
+            "phone": "0983057888",
+            "email": "delgadomia@yahoo.com",
+            "address": "17 Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+            "note": "Nice forward probably affect. Without around space station."
+        },
+        {
+            "idCus": "cus15",
+            "nameCus": "Melissa Willis",
+            "avatarCus": "https://randomuser.me/api/portraits/men/73.jpg",
+            "artist": [
+                {
+                    "idAr": "ar3",
+                    "nameAr": "Julie Ford"
+                },
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 1,
+                    "timebooking": "2024-10-14 - 12:15 PM"
+                },
+                {
+                    "idSer": "ser4",
+                    "nameSer": "Service 4",
+                    "description": "Call enjoy course.",
+                    "payment-status": 1,
+                    "timebooking": "2024-10-14 - 11:14 PM"
+                },
+                {
+                    "idSer": "ser4",
+                    "nameSer": "Service 4",
+                    "description": "Call enjoy course.",
+                    "payment-status": 1,
+                    "timebooking": "2025-05-16 - 01:49 AM"
+                },
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": -1,
+                    "timebooking": "2024-10-25 - 01:24 AM"
+                }
+            ],
+            "status": 0,
+            "gender": 1,
+            "phone": "0921492153",
+            "email": "susanhernandez@yahoo.com",
+            "address": "76 Pasteur, Quận 1, Thành phố Hồ Chí Minh",
+            "note": "Kind vote simply although hospital oil matter. Yourself research ok reality."
+        },
+        {
+            "idCus": "cus16",
+            "nameCus": "William Whitaker",
+            "avatarCus": "https://randomuser.me/api/portraits/women/85.jpg",
+            "artist": [
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 0,
+                    "timebooking": "2024-10-27 - 01:47 PM"
+                },
+                {
+                    "idSer": "ser10",
+                    "nameSer": "Service 10",
+                    "description": "Here example collection likely.",
+                    "payment-status": 1,
+                    "timebooking": "2024-09-06 - 07:39 PM"
+                },
+                {
+                    "idSer": "ser8",
+                    "nameSer": "Service 8",
+                    "description": "Once leader mother bring around blood.",
+                    "payment-status": 1,
+                    "timebooking": "2024-06-15 - 02:12 PM"
+                },
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": 0,
+                    "timebooking": "2024-09-21 - 05:37 AM"
+                },
+                {
+                    "idSer": "ser9",
+                    "nameSer": "Service 9",
+                    "description": "And despite try federal property.",
+                    "payment-status": 1,
+                    "timebooking": "2025-06-01 - 05:20 PM"
+                }
+            ],
+            "status": 1,
+            "gender": -1,
+            "phone": "0930329892",
+            "email": "james31@yahoo.com",
+            "address": "32 Lý Chính Thắng, Quận 3, Thành phố Hồ Chí Minh",
+            "note": "Sign president positive huge miss."
+        },
+        {
+            "idCus": "cus17",
+            "nameCus": "Jennifer Soto",
+            "avatarCus": "https://randomuser.me/api/portraits/men/40.jpg",
+            "artist": [
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                },
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                },
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": 0,
+                    "timebooking": "2025-02-24 - 04:48 AM"
+                },
+                {
+                    "idSer": "ser4",
+                    "nameSer": "Service 4",
+                    "description": "Call enjoy course.",
+                    "payment-status": 0,
+                    "timebooking": "2024-08-21 - 02:56 AM"
+                },
+                {
+                    "idSer": "ser5",
+                    "nameSer": "Service 5",
+                    "description": "Say everyone minute consider rule.",
+                    "payment-status": -1,
+                    "timebooking": "2025-05-07 - 03:26 AM"
+                },
+                {
+                    "idSer": "ser6",
+                    "nameSer": "Service 6",
+                    "description": "Myself white suddenly hot development.",
+                    "payment-status": 1,
+                    "timebooking": "2024-12-09 - 07:31 AM"
+                }
+            ],
+            "status": 1,
+            "gender": 1,
+            "phone": "0988040904",
+            "email": "jamesorozco@haas-ramos.com",
+            "address": "81 Nguyễn Đình Chiểu, Quận 3, Thành phố Hồ Chí Minh",
+            "note": "First task picture ground gun. Letter four despite understand."
+        },
+        {
+            "idCus": "cus18",
+            "nameCus": "Daniel Williams",
+            "avatarCus": "https://randomuser.me/api/portraits/men/62.jpg",
+            "artist": [
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                },
+                {
+                    "idAr": "ar4",
+                    "nameAr": "Brett Gray"
+                },
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser2",
+                    "nameSer": "Service 2",
+                    "description": "Amount social black form away eat.",
+                    "payment-status": 1,
+                    "timebooking": "2025-06-02 - 06:55 PM"
+                }
+            ],
+            "status": 1,
+            "gender": 1,
+            "phone": "0968205129",
+            "email": "greenkevin@glover-rios.com",
+            "address": "135 Nguyễn Văn Trỗi, Phú Nhuận, Thành phố Hồ Chí Minh",
+            "note": "Send chance their sign dream. Add listen inside color like."
+        },
+        {
+            "idCus": "cus19",
+            "nameCus": "Julie Parker",
+            "avatarCus": "https://randomuser.me/api/portraits/women/15.jpg",
+            "artist": [
+                {
+                    "idAr": "ar5",
+                    "nameAr": "Nancy Marsh"
+                },
+                {
+                    "idAr": "ar2",
+                    "nameAr": "Mary Spencer"
+                },
+                {
+                    "idAr": "ar3",
+                    "nameAr": "Julie Ford"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": 1,
+                    "timebooking": "2024-12-20 - 05:42 AM"
+                },
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": -1,
+                    "timebooking": "2025-05-16 - 08:18 AM"
+                },
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": 0,
+                    "timebooking": "2024-06-11 - 04:03 AM"
+                },
+                {
+                    "idSer": "ser9",
+                    "nameSer": "Service 9",
+                    "description": "And despite try federal property.",
+                    "payment-status": 1,
+                    "timebooking": "2024-06-18 - 02:15 PM"
+                }
+            ],
+            "status": 0,
+            "gender": 0,
+            "phone": "0947700539",
+            "email": "stevensshannon@yahoo.com",
+            "address": "200 Lê Duẩn, Quận 1, Thành phố Hồ Chí Minh",
+            "note": "Eat buy finish cell. Media example enough child budget anyone. Heavy get player past behind."
+        },
+        {
+            "idCus": "cus20",
+            "nameCus": "Daniel Buchanan",
+            "avatarCus": "https://randomuser.me/api/portraits/women/5.jpg",
+            "artist": [
+                {
+                    "idAr": "ar1",
+                    "nameAr": "David Morgan"
+                }
+            ],
+            "services": [
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": 1,
+                    "timebooking": "2025-04-01 - 07:27 PM"
+                },
+                {
+                    "idSer": "ser7",
+                    "nameSer": "Service 7",
+                    "description": "Catch growth go staff.",
+                    "payment-status": 1,
+                    "timebooking": "2024-07-27 - 12:05 PM"
+                },
+                {
+                    "idSer": "ser1",
+                    "nameSer": "Service 1",
+                    "description": "Tax able three field sense truth.",
+                    "payment-status": -1,
+                    "timebooking": "2025-03-14 - 07:28 AM"
+                }
+            ],
+            "status": 0,
+            "gender": 0,
+            "phone": "0937364661",
+            "email": "mooremelissa@mccarthy.com",
+            "address": "5 Hoàng Văn Thụ, Tân Bình, Thành phố Hồ Chí Minh",
+            "note": "Meeting candidate great suddenly. You return civil control. Television choice prevent."
+        }
+    ]
+}

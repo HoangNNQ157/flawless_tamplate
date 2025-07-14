@@ -1,0 +1,324 @@
+{
+  "totalReview": [
+    {
+      "id": "rv001",
+      "customer": {
+        "idCu": "cu720",
+        "nameCu": "Angela Mosley",
+        "avatar": "https://randomuser.me/api/portraits/women/20.jpg"
+      },
+      "artist": {
+        "idAr": "ar577",
+        "nameAr": "Mark Solis"
+      },
+      "service": "Nail Art",
+      "message": "Go loss race open phone front population quickly statement put wall central for seek song approach.",
+      "rating": 5,
+      "datetime": "Thursday, 09 Oct 2025, 7:33 PM"
+    },
+    {
+      "id": "rv002",
+      "customer": {
+        "idCu": "cu829",
+        "nameCu": "Paul Meyer",
+        "avatar": "https://randomuser.me/api/portraits/men/72.jpg"
+      },
+      "artist": {
+        "idAr": "ar995",
+        "nameAr": "Crystal Armstrong"
+      },
+      "service": "Tattoo",
+      "message": "City behavior hear region scene someone fire.",
+      "rating": 1,
+      "datetime": "Wednesday, 01 Jan 2025, 10:29 PM"
+    },
+    {
+      "id": "rv003",
+      "customer": {
+        "idCu": "cu533",
+        "nameCu": "James Adams",
+        "avatar": "https://randomuser.me/api/portraits/men/48.jpg"
+      },
+      "artist": {
+        "idAr": "ar796",
+        "nameAr": "Kevin Dunn"
+      },
+      "service": "Nail Art",
+      "message": "Hard type prove call impact baby garden positive able decade serve daughter religious long whose.",
+      "rating": 1,
+      "datetime": "Wednesday, 15 Jan 2025, 1:14 AM"
+    },
+    {
+      "id": "rv004",
+      "customer": {
+        "idCu": "cu617",
+        "nameCu": "Elizabeth Fischer",
+        "avatar": "https://randomuser.me/api/portraits/women/27.jpg"
+      },
+      "artist": {
+        "idAr": "ar262",
+        "nameAr": "Carl Thomas"
+      },
+      "service": "Nail Art",
+      "message": "Assume push family Democrat author industry may type air nation put nice.",
+      "rating": 3,
+      "datetime": "Friday, 14 Feb 2025, 11:14 PM"
+    },
+    {
+      "id": "rv005",
+      "customer": {
+        "idCu": "cu288",
+        "nameCu": "William Mitchell",
+        "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+      },
+      "artist": {
+        "idAr": "ar836",
+        "nameAr": "Angela Martinez"
+      },
+      "service": "Tattoo",
+      "message": "She girl reduce actually rock town view rich civil management value approach yeah off.",
+      "rating": 3,
+      "datetime": "Friday, 12 Dec 2025, 12:18 AM"
+    },
+    {
+      "id": "rv006",
+      "customer": {
+        "idCu": "cu519",
+        "nameCu": "Elizabeth Zhang",
+        "avatar": "https://randomuser.me/api/portraits/women/69.jpg"
+      },
+      "artist": {
+        "idAr": "ar725",
+        "nameAr": "David Williams"
+      },
+      "service": "Facial",
+      "message": "Day six because church low cold relate south available.",
+      "rating": 2,
+      "datetime": "Sunday, 17 Aug 2025, 6:37 AM"
+    },
+    {
+      "id": "rv007",
+      "customer": {
+        "idCu": "cu387",
+        "nameCu": "Roger Kelly",
+        "avatar": "https://randomuser.me/api/portraits/men/55.jpg"
+      },
+      "artist": {
+        "idAr": "ar555",
+        "nameAr": "Kyle Crawford"
+      },
+      "service": "Tattoo",
+      "message": "Figure approach scene security within left positive best design offer good drive become ability question.",
+      "rating": 2,
+      "datetime": "Tuesday, 28 Oct 2025, 4:30 AM"
+    },
+    {
+      "id": "rv008",
+      "customer": {
+        "idCu": "cu106",
+        "nameCu": "Troy Hamilton",
+        "avatar": "https://randomuser.me/api/portraits/men/77.jpg"
+      },
+      "artist": {
+        "idAr": "ar800",
+        "nameAr": "Dorothy Thompson"
+      },
+      "service": "Tattoo",
+      "message": "Lead voice level discussion level her day more decide money whatever mother fight either.",
+      "rating": 5,
+      "datetime": "Wednesday, 05 Feb 2025, 6:19 PM"
+    },
+    {
+      "id": "rv009",
+      "customer": {
+        "idCu": "cu540",
+        "nameCu": "Jennifer Gallegos",
+        "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+      },
+      "artist": {
+        "idAr": "ar212",
+        "nameAr": "Derrick Lloyd"
+      },
+      "service": "Tattoo",
+      "message": "Growth herself show wonder majority that style technology return nice detail road marriage around them fall.",
+      "rating": 2,
+      "datetime": "Saturday, 26 Jul 2025, 6:30 AM"
+    },
+    {
+      "id": "rv010",
+      "customer": {
+        "idCu": "cu705",
+        "nameCu": "Edward Arnold",
+        "avatar": "https://randomuser.me/api/portraits/men/23.jpg"
+      },
+      "artist": {
+        "idAr": "ar938",
+        "nameAr": "Maria Allen"
+      },
+      "service": "Tattoo",
+      "message": "Oil service push here effect table capital rule yes eat lose the.",
+      "rating": 3,
+      "datetime": "Friday, 21 Feb 2025, 5:59 AM"
+    },
+    {
+      "id": "rv011",
+      "customer": {
+        "idCu": "cu481",
+        "nameCu": "Janet Knox",
+        "avatar": "https://randomuser.me/api/portraits/women/41.jpg"
+      },
+      "artist": {
+        "idAr": "ar268",
+        "nameAr": "Jonathan Chase"
+      },
+      "service": "Makeup",
+      "message": "Reach well it maybe style market size drive.",
+      "rating": 5,
+      "datetime": "Sunday, 17 Aug 2025, 7:41 PM"
+    },
+    {
+      "id": "rv012",
+      "customer": {
+        "idCu": "cu808",
+        "nameCu": "Gary Little",
+        "avatar": "https://randomuser.me/api/portraits/men/91.jpg"
+      },
+      "artist": {
+        "idAr": "ar889",
+        "nameAr": "Jennifer Sanchez"
+      },
+      "service": "Tattoo",
+      "message": "Account attack adult west international order plant change east too travel design scene popular.",
+      "rating": 2,
+      "datetime": "Tuesday, 30 Dec 2025, 7:02 AM"
+    },
+    {
+      "id": "rv013",
+      "customer": {
+        "idCu": "cu792",
+        "nameCu": "Mary Hernandez",
+        "avatar": "https://randomuser.me/api/portraits/women/7.jpg"
+      },
+      "artist": {
+        "idAr": "ar564",
+        "nameAr": "Danielle Valdez"
+      },
+      "service": "Hair Styling",
+      "message": "Fund million something group event marriage race performance perhaps fast.",
+      "rating": 5,
+      "datetime": "Saturday, 07 Jun 2025, 7:31 PM"
+    },
+    {
+      "id": "rv014",
+      "customer": {
+        "idCu": "cu983",
+        "nameCu": "Kathryn Wyatt",
+        "avatar": "https://randomuser.me/api/portraits/women/30.jpg"
+      },
+      "artist": {
+        "idAr": "ar103",
+        "nameAr": "Jeffrey Ellis"
+      },
+      "service": "Tattoo",
+      "message": "Music word run indeed four outside here memory this him help.",
+      "rating": 5,
+      "datetime": "Monday, 21 Jul 2025, 11:33 PM"
+    },
+    {
+      "id": "rv015",
+      "customer": {
+        "idCu": "cu866",
+        "nameCu": "Michelle Thomas",
+        "avatar": "https://randomuser.me/api/portraits/women/91.jpg"
+      },
+      "artist": {
+        "idAr": "ar459",
+        "nameAr": "Barbara Hicks"
+      },
+      "service": "Tattoo",
+      "message": "Station challenge anyone expert form owner glass we skin industry.",
+      "rating": 3,
+      "datetime": "Tuesday, 18 Feb 2025, 3:59 PM"
+    },
+    {
+      "id": "rv016",
+      "customer": {
+        "idCu": "cu352",
+        "nameCu": "Amanda Thomas",
+        "avatar": "https://randomuser.me/api/portraits/women/77.jpg"
+      },
+      "artist": {
+        "idAr": "ar766",
+        "nameAr": "Donna Hill"
+      },
+      "service": "Hair Styling",
+      "message": "Answer late garden thank right give add.",
+      "rating": 5,
+      "datetime": "Wednesday, 17 Dec 2025, 5:57 PM"
+    },
+    {
+      "id": "rv017",
+      "customer": {
+        "idCu": "cu949",
+        "nameCu": "Shannon Copeland",
+        "avatar": "https://randomuser.me/api/portraits/women/35.jpg"
+      },
+      "artist": {
+        "idAr": "ar416",
+        "nameAr": "Luis Brown"
+      },
+      "service": "Facial",
+      "message": "Him look tend ever heavy ground member big talk environmental phone matter.",
+      "rating": 2,
+      "datetime": "Sunday, 21 Dec 2025, 10:10 PM"
+    },
+    {
+      "id": "rv018",
+      "customer": {
+        "idCu": "cu169",
+        "nameCu": "Stephen Farmer",
+        "avatar": "https://randomuser.me/api/portraits/men/31.jpg"
+      },
+      "artist": {
+        "idAr": "ar130",
+        "nameAr": "Richard Watson"
+      },
+      "service": "Tattoo",
+      "message": "Never nice glass also top break leader century summer fear travel class office truth large.",
+      "rating": 2,
+      "datetime": "Monday, 04 Aug 2025, 7:31 AM"
+    },
+    {
+      "id": "rv019",
+      "customer": {
+        "idCu": "cu482",
+        "nameCu": "Ashley Jackson",
+        "avatar": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      "artist": {
+        "idAr": "ar884",
+        "nameAr": "Victor Ho"
+      },
+      "service": "Makeup",
+      "message": "Agree example anyone once his later safe sea job gun catch author almost machine firm.",
+      "rating": 5,
+      "datetime": "Sunday, 16 Nov 2025, 2:47 AM"
+    },
+    {
+      "id": "rv020",
+      "customer": {
+        "idCu": "cu187",
+        "nameCu": "Rebecca Anderson",
+        "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+      },
+      "artist": {
+        "idAr": "ar741",
+        "nameAr": "Rebecca Wilcox"
+      },
+      "service": "Nail Art",
+      "message": "Newspaper pressure pull position believe wife position impact training some ago laugh another environment president several.",
+      "rating": 4,
+      "datetime": "Friday, 15 Aug 2025, 3:03 PM"
+    }
+  ]
+}

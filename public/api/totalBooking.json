@@ -1,0 +1,127 @@
+{
+  "totalBooking": {
+    "totalBookingAllYear": 11065,
+    "perYear": [
+      {
+        "year": 2023,
+        "totalBookingPerYear": 3884,
+        "bestBooking": {
+          "month": "dec",
+          "booking": 459
+        },
+        "bestCancel": {
+          "month": "jun",
+          "cancel": 100
+        },
+        "booking": {
+          "jan": 176,
+          "feb": 398,
+          "mar": 391,
+          "apr": 397,
+          "may": 209,
+          "jun": 207,
+          "jul": 344,
+          "aug": 442,
+          "sep": 364,
+          "oct": 152,
+          "nov": 345,
+          "dec": 459
+        },
+        "cancel": {
+          "jan": 59,
+          "feb": 98,
+          "mar": 78,
+          "apr": 53,
+          "may": 23,
+          "jun": 100,
+          "jul": 74,
+          "aug": 54,
+          "sep": 41,
+          "oct": 45,
+          "nov": 84,
+          "dec": 10
+        }
+      },
+      {
+        "year": 2024,
+        "totalBookingPerYear": 3510,
+        "bestBooking": {
+          "month": "may",
+          "booking": 495
+        },
+        "bestCancel": {
+          "month": "jan",
+          "cancel": 90
+        },
+        "booking": {
+          "jan": 371,
+          "feb": 216,
+          "mar": 175,
+          "apr": 140,
+          "may": 495,
+          "jun": 315,
+          "jul": 130,
+          "aug": 329,
+          "sep": 271,
+          "oct": 217,
+          "nov": 477,
+          "dec": 374
+        },
+        "cancel": {
+          "jan": 90,
+          "feb": 59,
+          "mar": 82,
+          "apr": 19,
+          "may": 70,
+          "jun": 33,
+          "jul": 26,
+          "aug": 81,
+          "sep": 48,
+          "oct": 53,
+          "nov": 90,
+          "dec": 78
+        }
+      },
+      {
+        "year": 2025,
+        "totalBookingPerYear": 3671,
+        "bestBooking": {
+          "month": "feb",
+          "booking": 481
+        },
+        "bestCancel": {
+          "month": "jul",
+          "cancel": 84
+        },
+        "booking": {
+          "jan": 237,
+          "feb": 481,
+          "mar": 289,
+          "apr": 129,
+          "may": 225,
+          "jun": 281,
+          "jul": 176,
+          "aug": 239,
+          "sep": 458,
+          "oct": 447,
+          "nov": 401,
+          "dec": 308
+        },
+        "cancel": {
+          "jan": 70,
+          "feb": 18,
+          "mar": 37,
+          "apr": 13,
+          "may": 68,
+          "jun": 31,
+          "jul": 84,
+          "aug": 21,
+          "sep": 45,
+          "oct": 78,
+          "nov": 37,
+          "dec": 35
+        }
+      }
+    ]
+  }
+}

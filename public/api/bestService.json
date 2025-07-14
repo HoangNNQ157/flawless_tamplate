@@ -1,0 +1,991 @@
+{
+  "bestService": [
+    {
+      "year": 2023,
+      "months": {
+        "jan": [
+          {
+            "idSer": "SER500",
+            "nameSer": "Body Contouring",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER649",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER666",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER156",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER390",
+            "nameSer": "Chemical Peels",
+            "avgRating": 3.8
+          }
+        ],
+        "feb": [
+          {
+            "idSer": "SER245",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER198",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER423",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.3
+          },
+          {
+            "idSer": "SER742",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER154",
+            "nameSer": "Chemical Peels",
+            "avgRating": 3.9
+          }
+        ],
+        "mar": [
+          {
+            "idSer": "SER680",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER997",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER757",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER235",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER530",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.8
+          }
+        ],
+        "apr": [
+          {
+            "idSer": "SER115",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER112",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER454",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER924",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER509",
+            "nameSer": "Skin Tightening",
+            "avgRating": 3.8
+          }
+        ],
+        "may": [
+          {
+            "idSer": "SER708",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER157",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.2
+          },
+          {
+            "idSer": "SER308",
+            "nameSer": "Acne Treatment",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER818",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER482",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.6
+          }
+        ],
+        "jun": [
+          {
+            "idSer": "SER728",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER166",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.7
+          },
+          {
+            "idSer": "SER494",
+            "nameSer": "Body Contouring",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER793",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER761",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.2
+          }
+        ],
+        "jul": [
+          {
+            "idSer": "SER602",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER870",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER322",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.3
+          },
+          {
+            "idSer": "SER644",
+            "nameSer": "Chemical Peels",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER576",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.3
+          }
+        ],
+        "aug": [
+          {
+            "idSer": "SER900",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER497",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER645",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER919",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER750",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.7
+          }
+        ],
+        "sep": [
+          {
+            "idSer": "SER972",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER418",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER857",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER844",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER753",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 5.0
+          }
+        ],
+        "oct": [
+          {
+            "idSer": "SER325",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER423",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER592",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER718",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.7
+          },
+          {
+            "idSer": "SER857",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.5
+          }
+        ],
+        "nov": [
+          {
+            "idSer": "SER499",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER619",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER562",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.2
+          },
+          {
+            "idSer": "SER597",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER707",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 3.7
+          }
+        ],
+        "dec": [
+          {
+            "idSer": "SER199",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER842",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER842",
+            "nameSer": "Acne Treatment",
+            "avgRating": 4.2
+          },
+          {
+            "idSer": "SER723",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER888",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.4
+          }
+        ]
+      }
+    },
+    {
+      "year": 2024,
+      "months": {
+        "jan": [
+          {
+            "idSer": "SER509",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER136",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER769",
+            "nameSer": "Chemical Peels",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER471",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER521",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.5
+          }
+        ],
+        "feb": [
+          {
+            "idSer": "SER160",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER169",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER111",
+            "nameSer": "Skin Tightening",
+            "avgRating": 5.0
+          },
+          {
+            "idSer": "SER988",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER316",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.3
+          }
+        ],
+        "mar": [
+          {
+            "idSer": "SER549",
+            "nameSer": "Body Contouring",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER827",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER198",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER491",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER432",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.0
+          }
+        ],
+        "apr": [
+          {
+            "idSer": "SER649",
+            "nameSer": "Body Contouring",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER785",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER878",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER876",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER178",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.8
+          }
+        ],
+        "may": [
+          {
+            "idSer": "SER610",
+            "nameSer": "Acne Treatment",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER493",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER106",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER888",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER707",
+            "nameSer": "Body Contouring",
+            "avgRating": 3.9
+          }
+        ],
+        "jun": [
+          {
+            "idSer": "SER348",
+            "nameSer": "Chemical Peels",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER276",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER450",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER734",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER982",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 3.9
+          }
+        ],
+        "jul": [
+          {
+            "idSer": "SER398",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER716",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER686",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.3
+          },
+          {
+            "idSer": "SER670",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER566",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.8
+          }
+        ],
+        "aug": [
+          {
+            "idSer": "SER788",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER973",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER416",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER138",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER414",
+            "nameSer": "Skin Tightening",
+            "avgRating": 3.9
+          }
+        ],
+        "sep": [
+          {
+            "idSer": "SER542",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.3
+          },
+          {
+            "idSer": "SER145",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER356",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.3
+          },
+          {
+            "idSer": "SER140",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER196",
+            "nameSer": "Skin Tightening",
+            "avgRating": 3.7
+          }
+        ],
+        "oct": [
+          {
+            "idSer": "SER649",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER122",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.7
+          },
+          {
+            "idSer": "SER948",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.2
+          },
+          {
+            "idSer": "SER636",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER338",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.1
+          }
+        ],
+        "nov": [
+          {
+            "idSer": "SER870",
+            "nameSer": "Acne Treatment",
+            "avgRating": 4.7
+          },
+          {
+            "idSer": "SER690",
+            "nameSer": "Skin Tightening",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER728",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER649",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER678",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.0
+          }
+        ],
+        "dec": [
+          {
+            "idSer": "SER571",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER945",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER719",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER559",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER159",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.9
+          }
+        ]
+      }
+    },
+    {
+      "year": 2025,
+      "months": {
+        "jan": [
+          {
+            "idSer": "SER820",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.7
+          },
+          {
+            "idSer": "SER411",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.2
+          },
+          {
+            "idSer": "SER226",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER128",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER927",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.4
+          }
+        ],
+        "feb": [
+          {
+            "idSer": "SER901",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER107",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER369",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER406",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER939",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.0
+          }
+        ],
+        "mar": [
+          {
+            "idSer": "SER656",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER415",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER330",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER318",
+            "nameSer": "Skin Tightening",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER858",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.0
+          }
+        ],
+        "apr": [
+          {
+            "idSer": "SER760",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.2
+          },
+          {
+            "idSer": "SER138",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER787",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.9
+          },
+          {
+            "idSer": "SER370",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER902",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.1
+          }
+        ],
+        "may": [
+          {
+            "idSer": "SER486",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER533",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.1
+          },
+          {
+            "idSer": "SER777",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.3
+          },
+          {
+            "idSer": "SER841",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER541",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 3.5
+          }
+        ],
+        "jun": [
+          {
+            "idSer": "SER614",
+            "nameSer": "Acne Treatment",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER397",
+            "nameSer": "Botox Injections",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER851",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER217",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.7
+          },
+          {
+            "idSer": "SER970",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.4
+          }
+        ],
+        "jul": [
+          {
+            "idSer": "SER769",
+            "nameSer": "Acne Treatment",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER705",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER201",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER931",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.6
+          },
+          {
+            "idSer": "SER422",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.8
+          }
+        ],
+        "aug": [
+          {
+            "idSer": "SER763",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER378",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER971",
+            "nameSer": "Acne Treatment",
+            "avgRating": 4.4
+          },
+          {
+            "idSer": "SER616",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER416",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.0
+          }
+        ],
+        "sep": [
+          {
+            "idSer": "SER148",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER955",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER401",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER634",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 3.7
+          },
+          {
+            "idSer": "SER919",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.5
+          }
+        ],
+        "oct": [
+          {
+            "idSer": "SER969",
+            "nameSer": "Body Contouring",
+            "avgRating": 4.2
+          },
+          {
+            "idSer": "SER886",
+            "nameSer": "Acne Treatment",
+            "avgRating": 4.3
+          },
+          {
+            "idSer": "SER221",
+            "nameSer": "Tattoo Removal",
+            "avgRating": 4.7
+          },
+          {
+            "idSer": "SER513",
+            "nameSer": "Skin Tightening",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER242",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.4
+          }
+        ],
+        "nov": [
+          {
+            "idSer": "SER270",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 4.5
+          },
+          {
+            "idSer": "SER750",
+            "nameSer": "Anti-aging Therapy",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER681",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER249",
+            "nameSer": "Facial Rejuvenation",
+            "avgRating": 4.0
+          },
+          {
+            "idSer": "SER899",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.5
+          }
+        ],
+        "dec": [
+          {
+            "idSer": "SER954",
+            "nameSer": "Microdermabrasion",
+            "avgRating": 3.9
+          },
+          {
+            "idSer": "SER802",
+            "nameSer": "Botox Injections",
+            "avgRating": 3.6
+          },
+          {
+            "idSer": "SER108",
+            "nameSer": "Chemical Peels",
+            "avgRating": 4.8
+          },
+          {
+            "idSer": "SER953",
+            "nameSer": "Skin Tightening",
+            "avgRating": 3.8
+          },
+          {
+            "idSer": "SER769",
+            "nameSer": "Laser Hair Removal",
+            "avgRating": 4.7
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1891 @@
+{
+  "bestArist": [
+    {
+      "year": 2023,
+      "months": {
+        "jan": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 7721,
+            "totalBookingInMonth": 98,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 3.9,
+            "totalRevenueInMonth": 1410,
+            "totalBookingInMonth": 81,
+            "totalCancelInMonth": 6
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 5895,
+            "totalBookingInMonth": 17,
+            "totalCancelInMonth": 11
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 5.0,
+            "totalRevenueInMonth": 2910,
+            "totalBookingInMonth": 95,
+            "totalCancelInMonth": 12
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 9022,
+            "totalBookingInMonth": 26,
+            "totalCancelInMonth": 5
+          }
+        ],
+        "feb": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 6677,
+            "totalBookingInMonth": 18,
+            "totalCancelInMonth": 14
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 2307,
+            "totalBookingInMonth": 56,
+            "totalCancelInMonth": 18
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 9666,
+            "totalBookingInMonth": 88,
+            "totalCancelInMonth": 6
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 5216,
+            "totalBookingInMonth": 62,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 6750,
+            "totalBookingInMonth": 59,
+            "totalCancelInMonth": 7
+          }
+        ],
+        "mar": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 1352,
+            "totalBookingInMonth": 77,
+            "totalCancelInMonth": 19
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 3545,
+            "totalBookingInMonth": 54,
+            "totalCancelInMonth": 1
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 3.8,
+            "totalRevenueInMonth": 9843,
+            "totalBookingInMonth": 13,
+            "totalCancelInMonth": 10
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 5.0,
+            "totalRevenueInMonth": 3973,
+            "totalBookingInMonth": 75,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 9574,
+            "totalBookingInMonth": 24,
+            "totalCancelInMonth": 17
+          }
+        ],
+        "apr": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 1269,
+            "totalBookingInMonth": 46,
+            "totalCancelInMonth": 1
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 4725,
+            "totalBookingInMonth": 93,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 6269,
+            "totalBookingInMonth": 62,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 2655,
+            "totalBookingInMonth": 12,
+            "totalCancelInMonth": 1
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 8849,
+            "totalBookingInMonth": 45,
+            "totalCancelInMonth": 6
+          }
+        ],
+        "may": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 2899,
+            "totalBookingInMonth": 94,
+            "totalCancelInMonth": 19
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 9688,
+            "totalBookingInMonth": 40,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 6539,
+            "totalBookingInMonth": 41,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 8302,
+            "totalBookingInMonth": 60,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 8448,
+            "totalBookingInMonth": 38,
+            "totalCancelInMonth": 5
+          }
+        ],
+        "jun": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 2862,
+            "totalBookingInMonth": 70,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 8034,
+            "totalBookingInMonth": 76,
+            "totalCancelInMonth": 19
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 8038,
+            "totalBookingInMonth": 51,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 9929,
+            "totalBookingInMonth": 61,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 2108,
+            "totalBookingInMonth": 33,
+            "totalCancelInMonth": 0
+          }
+        ],
+        "jul": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 8412,
+            "totalBookingInMonth": 57,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 2590,
+            "totalBookingInMonth": 63,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 6387,
+            "totalBookingInMonth": 52,
+            "totalCancelInMonth": 12
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 4912,
+            "totalBookingInMonth": 54,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 9961,
+            "totalBookingInMonth": 98,
+            "totalCancelInMonth": 14
+          }
+        ],
+        "aug": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 3669,
+            "totalBookingInMonth": 69,
+            "totalCancelInMonth": 11
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 9912,
+            "totalBookingInMonth": 12,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 7368,
+            "totalBookingInMonth": 83,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 5.0,
+            "totalRevenueInMonth": 8117,
+            "totalBookingInMonth": 87,
+            "totalCancelInMonth": 13
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 6274,
+            "totalBookingInMonth": 19,
+            "totalCancelInMonth": 8
+          }
+        ],
+        "sep": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 3263,
+            "totalBookingInMonth": 23,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 8137,
+            "totalBookingInMonth": 85,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 1118,
+            "totalBookingInMonth": 71,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 7257,
+            "totalBookingInMonth": 32,
+            "totalCancelInMonth": 0
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 7989,
+            "totalBookingInMonth": 25,
+            "totalCancelInMonth": 10
+          }
+        ],
+        "oct": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 7401,
+            "totalBookingInMonth": 70,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 8360,
+            "totalBookingInMonth": 94,
+            "totalCancelInMonth": 18
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 5.0,
+            "totalRevenueInMonth": 4436,
+            "totalBookingInMonth": 42,
+            "totalCancelInMonth": 18
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 2630,
+            "totalBookingInMonth": 71,
+            "totalCancelInMonth": 13
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 8050,
+            "totalBookingInMonth": 34,
+            "totalCancelInMonth": 10
+          }
+        ],
+        "nov": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 4201,
+            "totalBookingInMonth": 66,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 9291,
+            "totalBookingInMonth": 16,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 2046,
+            "totalBookingInMonth": 71,
+            "totalCancelInMonth": 0
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 4354,
+            "totalBookingInMonth": 25,
+            "totalCancelInMonth": 19
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 2588,
+            "totalBookingInMonth": 89,
+            "totalCancelInMonth": 3
+          }
+        ],
+        "dec": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 8738,
+            "totalBookingInMonth": 43,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 3068,
+            "totalBookingInMonth": 69,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 3078,
+            "totalBookingInMonth": 83,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 3633,
+            "totalBookingInMonth": 17,
+            "totalCancelInMonth": 12
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 3605,
+            "totalBookingInMonth": 31,
+            "totalCancelInMonth": 7
+          }
+        ]
+      }
+    },
+    {
+      "year": 2024,
+      "months": {
+        "jan": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 9122,
+            "totalBookingInMonth": 82,
+            "totalCancelInMonth": 10
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 1206,
+            "totalBookingInMonth": 51,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 5176,
+            "totalBookingInMonth": 93,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 3856,
+            "totalBookingInMonth": 87,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 5350,
+            "totalBookingInMonth": 52,
+            "totalCancelInMonth": 12
+          }
+        ],
+        "feb": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 4317,
+            "totalBookingInMonth": 80,
+            "totalCancelInMonth": 14
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 3969,
+            "totalBookingInMonth": 98,
+            "totalCancelInMonth": 6
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 8983,
+            "totalBookingInMonth": 23,
+            "totalCancelInMonth": 18
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 7968,
+            "totalBookingInMonth": 99,
+            "totalCancelInMonth": 19
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 9739,
+            "totalBookingInMonth": 28,
+            "totalCancelInMonth": 12
+          }
+        ],
+        "mar": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 5120,
+            "totalBookingInMonth": 13,
+            "totalCancelInMonth": 4
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 1258,
+            "totalBookingInMonth": 53,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 4323,
+            "totalBookingInMonth": 95,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 5122,
+            "totalBookingInMonth": 64,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 3.9,
+            "totalRevenueInMonth": 2819,
+            "totalBookingInMonth": 65,
+            "totalCancelInMonth": 6
+          }
+        ],
+        "apr": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 5556,
+            "totalBookingInMonth": 82,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 7417,
+            "totalBookingInMonth": 57,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 4145,
+            "totalBookingInMonth": 28,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 5181,
+            "totalBookingInMonth": 92,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 3.8,
+            "totalRevenueInMonth": 1670,
+            "totalBookingInMonth": 75,
+            "totalCancelInMonth": 18
+          }
+        ],
+        "may": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 2568,
+            "totalBookingInMonth": 82,
+            "totalCancelInMonth": 6
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 2193,
+            "totalBookingInMonth": 87,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 8288,
+            "totalBookingInMonth": 51,
+            "totalCancelInMonth": 13
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 6886,
+            "totalBookingInMonth": 51,
+            "totalCancelInMonth": 6
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 3.9,
+            "totalRevenueInMonth": 8547,
+            "totalBookingInMonth": 30,
+            "totalCancelInMonth": 2
+          }
+        ],
+        "jun": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 4997,
+            "totalBookingInMonth": 97,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 3757,
+            "totalBookingInMonth": 26,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 5506,
+            "totalBookingInMonth": 35,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 5250,
+            "totalBookingInMonth": 37,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 8278,
+            "totalBookingInMonth": 77,
+            "totalCancelInMonth": 2
+          }
+        ],
+        "jul": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 6120,
+            "totalBookingInMonth": 95,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 9076,
+            "totalBookingInMonth": 57,
+            "totalCancelInMonth": 1
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 2756,
+            "totalBookingInMonth": 86,
+            "totalCancelInMonth": 4
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 8887,
+            "totalBookingInMonth": 86,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 6691,
+            "totalBookingInMonth": 87,
+            "totalCancelInMonth": 2
+          }
+        ],
+        "aug": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 5.0,
+            "totalRevenueInMonth": 9877,
+            "totalBookingInMonth": 92,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 5.0,
+            "totalRevenueInMonth": 5224,
+            "totalBookingInMonth": 14,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 3946,
+            "totalBookingInMonth": 33,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 6714,
+            "totalBookingInMonth": 78,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 8295,
+            "totalBookingInMonth": 50,
+            "totalCancelInMonth": 17
+          }
+        ],
+        "sep": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 5066,
+            "totalBookingInMonth": 44,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 8673,
+            "totalBookingInMonth": 40,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 2409,
+            "totalBookingInMonth": 29,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 1350,
+            "totalBookingInMonth": 32,
+            "totalCancelInMonth": 2
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 8082,
+            "totalBookingInMonth": 12,
+            "totalCancelInMonth": 4
+          }
+        ],
+        "oct": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 4715,
+            "totalBookingInMonth": 82,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 3.9,
+            "totalRevenueInMonth": 2318,
+            "totalBookingInMonth": 37,
+            "totalCancelInMonth": 6
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 2095,
+            "totalBookingInMonth": 82,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 4434,
+            "totalBookingInMonth": 98,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 8865,
+            "totalBookingInMonth": 48,
+            "totalCancelInMonth": 2
+          }
+        ],
+        "nov": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 5973,
+            "totalBookingInMonth": 74,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 2549,
+            "totalBookingInMonth": 43,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 4288,
+            "totalBookingInMonth": 16,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 2341,
+            "totalBookingInMonth": 12,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 2001,
+            "totalBookingInMonth": 82,
+            "totalCancelInMonth": 5
+          }
+        ],
+        "dec": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 3.8,
+            "totalRevenueInMonth": 4689,
+            "totalBookingInMonth": 26,
+            "totalCancelInMonth": 11
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 4899,
+            "totalBookingInMonth": 98,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 1994,
+            "totalBookingInMonth": 42,
+            "totalCancelInMonth": 13
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 2808,
+            "totalBookingInMonth": 25,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 2623,
+            "totalBookingInMonth": 22,
+            "totalCancelInMonth": 11
+          }
+        ]
+      }
+    },
+    {
+      "year": 2025,
+      "months": {
+        "jan": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 8418,
+            "totalBookingInMonth": 92,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 2196,
+            "totalBookingInMonth": 100,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 6852,
+            "totalBookingInMonth": 50,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 4645,
+            "totalBookingInMonth": 86,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 8177,
+            "totalBookingInMonth": 49,
+            "totalCancelInMonth": 17
+          }
+        ],
+        "feb": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 8545,
+            "totalBookingInMonth": 87,
+            "totalCancelInMonth": 1
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 3688,
+            "totalBookingInMonth": 37,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 2317,
+            "totalBookingInMonth": 97,
+            "totalCancelInMonth": 4
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 7720,
+            "totalBookingInMonth": 77,
+            "totalCancelInMonth": 6
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 4912,
+            "totalBookingInMonth": 35,
+            "totalCancelInMonth": 20
+          }
+        ],
+        "mar": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 5484,
+            "totalBookingInMonth": 95,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 1758,
+            "totalBookingInMonth": 22,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 3.8,
+            "totalRevenueInMonth": 8925,
+            "totalBookingInMonth": 17,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 8498,
+            "totalBookingInMonth": 90,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 1168,
+            "totalBookingInMonth": 90,
+            "totalCancelInMonth": 0
+          }
+        ],
+        "apr": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 3219,
+            "totalBookingInMonth": 34,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 6326,
+            "totalBookingInMonth": 85,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 9538,
+            "totalBookingInMonth": 71,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 3312,
+            "totalBookingInMonth": 61,
+            "totalCancelInMonth": 17
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 6572,
+            "totalBookingInMonth": 74,
+            "totalCancelInMonth": 1
+          }
+        ],
+        "may": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 3.6,
+            "totalRevenueInMonth": 6412,
+            "totalBookingInMonth": 97,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 5320,
+            "totalBookingInMonth": 41,
+            "totalCancelInMonth": 0
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 4098,
+            "totalBookingInMonth": 68,
+            "totalCancelInMonth": 14
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 2283,
+            "totalBookingInMonth": 75,
+            "totalCancelInMonth": 18
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 3.9,
+            "totalRevenueInMonth": 2182,
+            "totalBookingInMonth": 82,
+            "totalCancelInMonth": 6
+          }
+        ],
+        "jun": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 4363,
+            "totalBookingInMonth": 73,
+            "totalCancelInMonth": 13
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 9000,
+            "totalBookingInMonth": 17,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 7700,
+            "totalBookingInMonth": 10,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 1,
+            "avgRating": 4.2,
+            "totalRevenueInMonth": 7282,
+            "totalBookingInMonth": 33,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 3.8,
+            "totalRevenueInMonth": 7691,
+            "totalBookingInMonth": 22,
+            "totalCancelInMonth": 17
+          }
+        ],
+        "jul": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 6280,
+            "totalBookingInMonth": 90,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 9663,
+            "totalBookingInMonth": 40,
+            "totalCancelInMonth": 4
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 5623,
+            "totalBookingInMonth": 68,
+            "totalCancelInMonth": 1
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 8792,
+            "totalBookingInMonth": 27,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 1424,
+            "totalBookingInMonth": 86,
+            "totalCancelInMonth": 5
+          }
+        ],
+        "aug": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 1,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 3099,
+            "totalBookingInMonth": 17,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.4,
+            "totalRevenueInMonth": 9943,
+            "totalBookingInMonth": 74,
+            "totalCancelInMonth": 3
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 7782,
+            "totalBookingInMonth": 87,
+            "totalCancelInMonth": 8
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 3.8,
+            "totalRevenueInMonth": 9951,
+            "totalBookingInMonth": 95,
+            "totalCancelInMonth": 19
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 2230,
+            "totalBookingInMonth": 71,
+            "totalCancelInMonth": 0
+          }
+        ],
+        "sep": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.5,
+            "totalRevenueInMonth": 8585,
+            "totalBookingInMonth": 74,
+            "totalCancelInMonth": 4
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 5.0,
+            "totalRevenueInMonth": 2671,
+            "totalBookingInMonth": 53,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 8653,
+            "totalBookingInMonth": 20,
+            "totalCancelInMonth": 9
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 4562,
+            "totalBookingInMonth": 20,
+            "totalCancelInMonth": 1
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 3291,
+            "totalBookingInMonth": 60,
+            "totalCancelInMonth": 13
+          }
+        ],
+        "oct": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 3.5,
+            "totalRevenueInMonth": 7388,
+            "totalBookingInMonth": 34,
+            "totalCancelInMonth": 13
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 7160,
+            "totalBookingInMonth": 80,
+            "totalCancelInMonth": 16
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 3614,
+            "totalBookingInMonth": 99,
+            "totalCancelInMonth": 4
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 3.8,
+            "totalRevenueInMonth": 7229,
+            "totalBookingInMonth": 57,
+            "totalCancelInMonth": 15
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.8,
+            "totalRevenueInMonth": 7749,
+            "totalBookingInMonth": 50,
+            "totalCancelInMonth": 1
+          }
+        ],
+        "nov": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 4419,
+            "totalBookingInMonth": 20,
+            "totalCancelInMonth": 0
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 1,
+            "avgRating": 4.0,
+            "totalRevenueInMonth": 5647,
+            "totalBookingInMonth": 92,
+            "totalCancelInMonth": 10
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 1,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 1680,
+            "totalBookingInMonth": 61,
+            "totalCancelInMonth": 11
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 3.7,
+            "totalRevenueInMonth": 2640,
+            "totalBookingInMonth": 49,
+            "totalCancelInMonth": 14
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.9,
+            "totalRevenueInMonth": 6567,
+            "totalBookingInMonth": 18,
+            "totalCancelInMonth": 4
+          }
+        ],
+        "dec": [
+          {
+            "idAr": "AR001",
+            "nameAr": "Artist 1",
+            "avatarAr": "https://example.com/avatar1.jpg",
+            "status": 0,
+            "avgRating": 3.9,
+            "totalRevenueInMonth": 8172,
+            "totalBookingInMonth": 17,
+            "totalCancelInMonth": 7
+          },
+          {
+            "idAr": "AR002",
+            "nameAr": "Artist 2",
+            "avatarAr": "https://example.com/avatar2.jpg",
+            "status": 0,
+            "avgRating": 4.3,
+            "totalRevenueInMonth": 5956,
+            "totalBookingInMonth": 12,
+            "totalCancelInMonth": 20
+          },
+          {
+            "idAr": "AR003",
+            "nameAr": "Artist 3",
+            "avatarAr": "https://example.com/avatar3.jpg",
+            "status": 0,
+            "avgRating": 4.6,
+            "totalRevenueInMonth": 4690,
+            "totalBookingInMonth": 89,
+            "totalCancelInMonth": 11
+          },
+          {
+            "idAr": "AR004",
+            "nameAr": "Artist 4",
+            "avatarAr": "https://example.com/avatar4.jpg",
+            "status": 0,
+            "avgRating": 4.1,
+            "totalRevenueInMonth": 9650,
+            "totalBookingInMonth": 50,
+            "totalCancelInMonth": 13
+          },
+          {
+            "idAr": "AR005",
+            "nameAr": "Artist 5",
+            "avatarAr": "https://example.com/avatar5.jpg",
+            "status": 1,
+            "avgRating": 4.7,
+            "totalRevenueInMonth": 4678,
+            "totalBookingInMonth": 12,
+            "totalCancelInMonth": 13
+          }
+        ]
+      }
+    }
+  ]
+}

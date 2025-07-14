@@ -1,0 +1,241 @@
+{
+  "totalCustomer": {
+    "totalCustomerAllYear": 3326,
+    "perYear": [
+      {
+        "year": 2023,
+        "totalPerYear": 1031,
+        "months": {
+          "jan": {
+            "totalCustomer": 67,
+            "newCustomer": 39,
+            "returnCustomer": 28,
+            "cancelCustomer": 19
+          },
+          "feb": {
+            "totalCustomer": 106,
+            "newCustomer": 55,
+            "returnCustomer": 51,
+            "cancelCustomer": 20
+          },
+          "mar": {
+            "totalCustomer": 91,
+            "newCustomer": 44,
+            "returnCustomer": 47,
+            "cancelCustomer": 8
+          },
+          "apr": {
+            "totalCustomer": 105,
+            "newCustomer": 79,
+            "returnCustomer": 26,
+            "cancelCustomer": 25
+          },
+          "may": {
+            "totalCustomer": 65,
+            "newCustomer": 35,
+            "returnCustomer": 30,
+            "cancelCustomer": 13
+          },
+          "jun": {
+            "totalCustomer": 80,
+            "newCustomer": 43,
+            "returnCustomer": 37,
+            "cancelCustomer": 9
+          },
+          "jul": {
+            "totalCustomer": 67,
+            "newCustomer": 38,
+            "returnCustomer": 29,
+            "cancelCustomer": 6
+          },
+          "aug": {
+            "totalCustomer": 66,
+            "newCustomer": 33,
+            "returnCustomer": 33,
+            "cancelCustomer": 9
+          },
+          "sep": {
+            "totalCustomer": 88,
+            "newCustomer": 57,
+            "returnCustomer": 31,
+            "cancelCustomer": 23
+          },
+          "oct": {
+            "totalCustomer": 97,
+            "newCustomer": 53,
+            "returnCustomer": 44,
+            "cancelCustomer": 21
+          },
+          "nov": {
+            "totalCustomer": 120,
+            "newCustomer": 71,
+            "returnCustomer": 49,
+            "cancelCustomer": 18
+          },
+          "dec": {
+            "totalCustomer": 79,
+            "newCustomer": 43,
+            "returnCustomer": 36,
+            "cancelCustomer": 14
+          }
+        }
+      },
+      {
+        "year": 2024,
+        "totalPerYear": 1098,
+        "months": {
+          "jan": {
+            "totalCustomer": 63,
+            "newCustomer": 33,
+            "returnCustomer": 30,
+            "cancelCustomer": 21
+          },
+          "feb": {
+            "totalCustomer": 65,
+            "newCustomer": 36,
+            "returnCustomer": 29,
+            "cancelCustomer": 18
+          },
+          "mar": {
+            "totalCustomer": 72,
+            "newCustomer": 52,
+            "returnCustomer": 20,
+            "cancelCustomer": 20
+          },
+          "apr": {
+            "totalCustomer": 113,
+            "newCustomer": 77,
+            "returnCustomer": 36,
+            "cancelCustomer": 9
+          },
+          "may": {
+            "totalCustomer": 134,
+            "newCustomer": 80,
+            "returnCustomer": 54,
+            "cancelCustomer": 8
+          },
+          "jun": {
+            "totalCustomer": 76,
+            "newCustomer": 48,
+            "returnCustomer": 28,
+            "cancelCustomer": 13
+          },
+          "jul": {
+            "totalCustomer": 98,
+            "newCustomer": 46,
+            "returnCustomer": 52,
+            "cancelCustomer": 12
+          },
+          "aug": {
+            "totalCustomer": 93,
+            "newCustomer": 47,
+            "returnCustomer": 46,
+            "cancelCustomer": 20
+          },
+          "sep": {
+            "totalCustomer": 97,
+            "newCustomer": 55,
+            "returnCustomer": 42,
+            "cancelCustomer": 13
+          },
+          "oct": {
+            "totalCustomer": 93,
+            "newCustomer": 42,
+            "returnCustomer": 51,
+            "cancelCustomer": 12
+          },
+          "nov": {
+            "totalCustomer": 91,
+            "newCustomer": 66,
+            "returnCustomer": 25,
+            "cancelCustomer": 9
+          },
+          "dec": {
+            "totalCustomer": 103,
+            "newCustomer": 63,
+            "returnCustomer": 40,
+            "cancelCustomer": 14
+          }
+        }
+      },
+      {
+        "year": 2025,
+        "totalPerYear": 1197,
+        "months": {
+          "jan": {
+            "totalCustomer": 71,
+            "newCustomer": 38,
+            "returnCustomer": 33,
+            "cancelCustomer": 20
+          },
+          "feb": {
+            "totalCustomer": 73,
+            "newCustomer": 52,
+            "returnCustomer": 21,
+            "cancelCustomer": 9
+          },
+          "mar": {
+            "totalCustomer": 116,
+            "newCustomer": 57,
+            "returnCustomer": 59,
+            "cancelCustomer": 10
+          },
+          "apr": {
+            "totalCustomer": 93,
+            "newCustomer": 63,
+            "returnCustomer": 30,
+            "cancelCustomer": 6
+          },
+          "may": {
+            "totalCustomer": 83,
+            "newCustomer": 57,
+            "returnCustomer": 26,
+            "cancelCustomer": 20
+          },
+          "jun": {
+            "totalCustomer": 110,
+            "newCustomer": 66,
+            "returnCustomer": 44,
+            "cancelCustomer": 9
+          },
+          "jul": {
+            "totalCustomer": 132,
+            "newCustomer": 75,
+            "returnCustomer": 57,
+            "cancelCustomer": 11
+          },
+          "aug": {
+            "totalCustomer": 126,
+            "newCustomer": 76,
+            "returnCustomer": 50,
+            "cancelCustomer": 7
+          },
+          "sep": {
+            "totalCustomer": 74,
+            "newCustomer": 31,
+            "returnCustomer": 43,
+            "cancelCustomer": 25
+          },
+          "oct": {
+            "totalCustomer": 89,
+            "newCustomer": 59,
+            "returnCustomer": 30,
+            "cancelCustomer": 8
+          },
+          "nov": {
+            "totalCustomer": 113,
+            "newCustomer": 72,
+            "returnCustomer": 41,
+            "cancelCustomer": 16
+          },
+          "dec": {
+            "totalCustomer": 117,
+            "newCustomer": 79,
+            "returnCustomer": 38,
+            "cancelCustomer": 9
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+    "totalAppointment": [
+      {
+        "idCus": "CU-001",
+        "nameCus": "Emily Jones",
+        "avatarCus": "https://randomuser.me/api/portraits/women/40.jpg",
+        "datetime": "2025-06-06 - 08:34 PM",
+        "nameAr": "Dr. Ava Lewis",
+        "service": "Microdermabrasion",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-002",
+        "nameCus": "Ava Lopez",
+        "avatarCus": "https://randomuser.me/api/portraits/women/33.jpg",
+        "datetime": "2025-05-24 - 01:18 PM",
+        "nameAr": "Dr. Sophia Hall",
+        "service": "Laser Treatment",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-003",
+        "nameCus": "Isabella Williams",
+        "avatarCus": "https://randomuser.me/api/portraits/women/41.jpg",
+        "datetime": "2025-05-26 - 08:09 PM",
+        "nameAr": "Dr. Mia Turner",
+        "service": "Botox",
+        "status": "Upcoming"
+      },
+      {
+        "idCus": "CU-004",
+        "nameCus": "Sophia Wilson",
+        "avatarCus": "https://randomuser.me/api/portraits/women/15.jpg",
+        "datetime": "2025-06-21 - 09:21 PM",
+        "nameAr": "Dr. Mia Turner",
+        "service": "Laser Treatment",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-005",
+        "nameCus": "Emily Martinez",
+        "avatarCus": "https://randomuser.me/api/portraits/women/10.jpg",
+        "datetime": "2025-06-08 - 09:47 PM",
+        "nameAr": "Dr. Mia Turner",
+        "service": "Microdermabrasion",
+        "status": "Upcoming"
+      },
+      {
+        "idCus": "CU-006",
+        "nameCus": "Evelyn Martinez",
+        "avatarCus": "https://randomuser.me/api/portraits/women/87.jpg",
+        "datetime": "2025-06-27 - 09:29 PM",
+        "nameAr": "Dr. Emma Scott",
+        "service": "Microdermabrasion",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-007",
+        "nameCus": "Ava Brown",
+        "avatarCus": "https://randomuser.me/api/portraits/women/39.jpg",
+        "datetime": "2025-05-28 - 03:22 PM",
+        "nameAr": "Dr. Emma Scott",
+        "service": "Facial Rejuvenation",
+        "status": "Upcoming"
+      },
+      {
+        "idCus": "CU-008",
+        "nameCus": "Mia Garcia",
+        "avatarCus": "https://randomuser.me/api/portraits/women/14.jpg",
+        "datetime": "2025-06-16 - 12:29 AM",
+        "nameAr": "Dr. Sophia Hall",
+        "service": "Botox",
+        "status": "Completed"
+      },
+      {
+        "idCus": "CU-009",
+        "nameCus": "Mia Martinez",
+        "avatarCus": "https://randomuser.me/api/portraits/women/16.jpg",
+        "datetime": "2025-05-02 - 05:49 PM",
+        "nameAr": "Dr. Emma Scott",
+        "service": "Chemical Peel",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-010",
+        "nameCus": "Mia Williams",
+        "avatarCus": "https://randomuser.me/api/portraits/women/14.jpg",
+        "datetime": "2025-06-22 - 08:05 PM",
+        "nameAr": "Dr. Emma Scott",
+        "service": "Microdermabrasion",
+        "status": "Upcoming"
+      },
+      {
+        "idCus": "CU-011",
+        "nameCus": "Sarah Jones",
+        "avatarCus": "https://randomuser.me/api/portraits/women/19.jpg",
+        "datetime": "2025-06-07 - 03:33 PM",
+        "nameAr": "Dr. Mia Turner",
+        "service": "Microdermabrasion",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-012",
+        "nameCus": "Olivia Brown",
+        "avatarCus": "https://randomuser.me/api/portraits/women/15.jpg",
+        "datetime": "2025-06-19 - 03:34 PM",
+        "nameAr": "Dr. Emma Scott",
+        "service": "Laser Treatment",
+        "status": "Completed"
+      },
+      {
+        "idCus": "CU-013",
+        "nameCus": "Evelyn Martinez",
+        "avatarCus": "https://randomuser.me/api/portraits/women/78.jpg",
+        "datetime": "2025-05-11 - 05:21 AM",
+        "nameAr": "Dr. Ava Lewis",
+        "service": "Microdermabrasion",
+        "status": "Completed"
+      },
+      {
+        "idCus": "CU-014",
+        "nameCus": "Sarah Garcia",
+        "avatarCus": "https://randomuser.me/api/portraits/women/13.jpg",
+        "datetime": "2025-06-18 - 01:14 PM",
+        "nameAr": "Dr. Mia Turner",
+        "service": "Botox",
+        "status": "Completed"
+      },
+      {
+        "idCus": "CU-015",
+        "nameCus": "Mia Davis",
+        "avatarCus": "https://randomuser.me/api/portraits/women/27.jpg",
+        "datetime": "2025-05-17 - 07:30 AM",
+        "nameAr": "Dr. Sophia Hall",
+        "service": "Facial Rejuvenation",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-016",
+        "nameCus": "Sarah Lopez",
+        "avatarCus": "https://randomuser.me/api/portraits/women/35.jpg",
+        "datetime": "2025-06-24 - 02:32 PM",
+        "nameAr": "Dr. Sophia Hall",
+        "service": "Botox",
+        "status": "In Progress"
+      },
+      {
+        "idCus": "CU-017",
+        "nameCus": "Mia Brown",
+        "avatarCus": "https://randomuser.me/api/portraits/women/15.jpg",
+        "datetime": "2025-05-04 - 03:40 PM",
+        "nameAr": "Dr. Emma Scott",
+        "service": "Chemical Peel",
+        "status": "Upcoming"
+      },
+      {
+        "idCus": "CU-018",
+        "nameCus": "Amelia Johnson",
+        "avatarCus": "https://randomuser.me/api/portraits/women/12.jpg",
+        "datetime": "2025-06-25 - 04:35 AM",
+        "nameAr": "Dr. Sophia Hall",
+        "service": "Botox",
+        "status": "Completed"
+      },
+      {
+        "idCus": "CU-019",
+        "nameCus": "Sophia Davis",
+        "avatarCus": "https://randomuser.me/api/portraits/women/33.jpg",
+        "datetime": "2025-06-13 - 04:37 AM",
+        "nameAr": "Dr. Mia Turner",
+        "service": "Microdermabrasion",
+        "status": "Completed"
+      },
+      {
+        "idCus": "CU-020",
+        "nameCus": "Amelia Brown",
+        "avatarCus": "https://randomuser.me/api/portraits/women/55.jpg",
+        "datetime": "2025-05-28 - 02:09 AM",
+        "nameAr": "Dr. Sophia Hall",
+        "service": "Botox",
+        "status": "Upcoming"
+      }
+    ]
+  }
